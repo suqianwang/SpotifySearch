@@ -1,0 +1,878 @@
+   1 spotify:user:cabal76:playlist:6DvVBcOjV0Ki6qyt05Gble Rockit Top 100 Italian Songs of 2017
+   2 spotify:user:cabal76:playlist:0IdkJ8HBiicoc30NP6kJ5H Rockit Top 20 Italian Albums of 2017
+   3 spotify:user:cabal76:playlist:4dRCyqozWWN9qDLV7khALv Les Inrocks Top 60 Songs of 2017
+   4 spotify:user:cabal76:playlist:79i4MqPw1mNfRStHQTw5YL Les Inrocks Top 50 Albums of 2017
+   5 spotify:user:cabal76:playlist:3rQl43UQMP1pOQxIkw4vDS The Quietus Top 50 Songs of 2017
+   6 spotify:user:cabal76:playlist:2oH6rMZhmBnCJPvHiiRHIv Rumore Top 50 Albums of 2017
+   7 spotify:user:cabal76:playlist:2bHtMKEcv2sOfHqcoYMp7A Fact Top 50 Albums of 2017
+   8 spotify:user:cabal76:playlist:2I0vbPJgabWyOt0ij9xuWY Fact Top 50 Songs of 2017
+   9 spotify:user:cabal76:playlist:2acMTFNnq97kAZxq1XH9kW NPR Top 100 Songs of 2017
+  10 spotify:user:cabal76:playlist:2mDQRKOPjoNX0Wj3D2kzPK NPR Top 50 Albums of 2017
+  11 spotify:user:cabal76:playlist:3EgsVODYCeE6xRbFlMzxRR PopMatters Top 70 Songs of 2017
+  12 spotify:user:cabal76:playlist:5cza0ahZAOWMy96CH51xdN PopMatters Top 60 Albums of 2017
+  13 spotify:user:cabal76:playlist:2HUddo2ovtAH3qZwH1hfo4 Pitchfork Top 50 Albums of 2017
+  14 spotify:user:cabal76:playlist:5yDDDyei1FdSbZmNAoASZf Pitchfork Top 100 Songs of 2017
+  15 spotify:user:cabal76:playlist:11yesYPjkGDAUCKKp9rG5s Rolling Stones Top 50 Albums of 2017
+  16 spotify:user:cabal76:playlist:79sBUk3gyVcV4w4abwYRMn The Wire Top 50 Albums of 2017
+  17 spotify:user:cabal76:playlist:4qI85Vp53hq6fen2V7QTmT The Quietus Top 100 Albums of the Year
+  18 spotify:user:cabal76:playlist:1tAPjKqdDCpI03YeM2dbuE Mojo Top 50 Albums of 2017
+  19 spotify:user:cabal76:playlist:6EsWyArYX29lL3s0XQN1qm Jazzwise Top 20 Albums of 2017
+  20 spotify:user:cabal76:playlist:3iSWFiWYFPNLihrYlKS9LQ Uncut Top 75 Albums of 2017
+  21 spotify:user:cabal76:playlist:6p0ywh4dAbkQqxDPHFcr9t Rough Trade Top 100 Albums of 2017
+  22 spotify:user:cabal76:playlist:48ElJ1EggeMCm1LsJQac2d El futuro ya està aquì - Songs from La Movida Madrilena
+  23 spotify:user:cabal76:playlist:28Y02li6ddJHqZOSyqvMgx The 50 Best Britpop Albums (Pitchfork)
+  24 spotify:user:cabal76:playlist:5Ic9dUtGLidhnEzEyfWIP7 The 50 Greatest Prince Songs
+  25 spotify:user:cabal76:playlist:22n99E7NoliWEskUJXJJHM The 100 Best One-Hit Wonder Songs (Consequence of Sound, 2016)
+  26 spotify:user:cabal76:playlist:5DS4cGN4FHeJJ4U6ON2Yz2 Alternative Rock's 50 Greatest Debut Singles (diffuser.fm, 2016)
+  27 spotify:user:cabal76:playlist:7DrDFRnlQO1yL5eqGIuGbJ Pitchfork 8.0 (2017)
+  28 spotify:user:cabal76:playlist:0w6Z5QYJLo6iWqyrF7IxD0 Pitchfork The 200 Best Songs of 1970s
+  29 spotify:user:cabal76:playlist:79emhbSRZCFatqEU9ahcm1 Nuggets I: Original Artyfacts from the First Psychedelic Era, 1965–1968
+  30 spotify:user:cabal76:playlist:4nitQD1ba1nJ7Cl8KddGZO U2 iNNOCENCE+eXPERIENCE Tour Setlist
+  31 spotify:user:cabal76:playlist:2WLjrUKMwOhXvBVpEOUDe8 Nuggets II: Original Artyfacts From the British Empire and Beyond, 1964-1969
+  32 spotify:user:cabal76:playlist:3l6S0cVLd8V69bUdsIf9i3 Dj Hero 2 soundtrack
+  33 spotify:user:cabal76:playlist:0QXF0pylAatXvO8EpRDP57 BBC6 Music Playlist (4/2/2017)
+  34 spotify:user:cabal76:playlist:42gc4VIaoafgvauJIjUGM2 Rolling Stone 500 Greatest Songs of All Time (2010)
+  35 spotify:user:cabal76:playlist:6v96GUBE0UrAHr1pdqsIAM The Complete Pitchfork 500 (1977-2006)
+  36 spotify:user:cabal76:playlist:2qguQXWVjHxCCzjqNDV95Y The Rudy Van Gelder Editions (mammoth)
+  37 spotify:user:cabal76:playlist:65IMU7snS2hGxjicq3OyoD David Bowie 100 Greatest Songs (Mojo, 2015)
+  38 spotify:user:cabal76:playlist:21VULYY3H9I4BTwNX2Zudw Les Inrocks Top 100 Albums of 2015
+  39 spotify:user:cabal76:playlist:0vbakbB324CjNJjzNZzNuM Oceanic 815 - The Music of Lost (complete)
+  40 spotify:user:cabal76:playlist:6T16qYIazBfUoHBO63l5T5 Radiohead A Moon Shaped Pool Tour 2016 Setlist
+  41 spotify:user:cabal76:playlist:4bs3WvgLXrd9vD8Jh0pz8Q The Longest Mixtape - 1000 Songs For You (by Caribou)
+  42 spotify:user:cabal76:playlist:0hZRcpQAUVzU4lBRID6af7 Metacritic 75 (best rated 2016 new albums)
+  43 spotify:user:cabal76:playlist:575Ub2IPy7sYXWNqAWJRGt Pitchfork 8.0 (best rated 2016 new albums)
+  44 spotify:user:cabal76:playlist:0WbwgmVaPW7o7cYuWeDMZp BBC6 Music 2016 Archive
+  45 spotify:user:cabal76:playlist:4jpL8hnNyAY5CMxoCuifR0 BBC6 Music 2015 Archive
+  46 spotify:user:cabal76:playlist:5C4yGMvYIM181LV7EoJkaL BBC6 Music 2011 Archive
+  47 spotify:user:cabal76:playlist:0C9EADJEW4wWWMlTyJCmfZ BBC6 Music 2012 Archive
+  48 spotify:user:cabal76:playlist:3YsDnb1n2idJjsipdrOtJm BBC6 Music 2014 Archive
+  49 spotify:user:cabal76:playlist:3iAcExtoVEYJqCHmtCsbgk Metacritic 75 (best rated 2015 new albums)
+  50 spotify:user:cabal76:playlist:0UUSAPh7sWJOYfqMYVXIm3 Metacritic 75 (best rated 2014 new albums)
+  51 spotify:user:cabal76:playlist:0xJI3C6RBqBV6JTXqGsiwr Metacritic 75 (best rated 2013 new albums)
+  52 spotify:user:cabal76:playlist:1zRulXyyk7qQ7eEywlI8u9 Metacritic 75 (best rated 2012 new albums)
+  53 spotify:user:cabal76:playlist:3RpDPteeY8iLJzmweH2FLV Metacritic 75 (best rated 2011 new albums)
+  54 spotify:user:cabal76:playlist:3Dhm75nKkSkkM2s2mTgLXz Metacritic 75 (best rated 2010 new albums)
+  55 spotify:user:cabal76:playlist:5acNNI8tHbxuXPRizYJRJI Metacritic 75 (best rated 2009 new albums)
+  56 spotify:user:cabal76:playlist:2HoC94mfqBJhIFj5Rs6Ve8 Metacritic 75 (best rated 2008 new albums)
+  57 spotify:user:cabal76:playlist:3hPAPtBosR3IkOuFSNetpZ Metacritic 75 (best rated 2007 new albums)
+  58 spotify:user:cabal76:playlist:1iUh8rURcTXDWJ22EWIxNY Metacritic 75 (best rated 2006 new albums)
+  59 spotify:user:cabal76:playlist:6xUKmPIet9Ro8C8Q649Wl2 Metacritic 75 (best rated 2005 new albums)
+  60 spotify:user:cabal76:playlist:1LOkQucN6GmJvac1yHn8SP Metacritic 75 (best rated 2004 new albums)
+  61 spotify:user:cabal76:playlist:4UozWRDeIbyv78XXtuHpkt Metacritic 75 (best rated 2003 new albums)
+  62 spotify:user:cabal76:playlist:60vj2qEwqBXNHePv0W6Ujp Metacritic 75 (best rated 2002 new albums)
+  63 spotify:user:cabal76:playlist:6l1tUv1JvznJv9AcjWzl4O Metacritic 75 (best rated 2001 new albums)
+  64 spotify:user:cabal76:playlist:6s7WvvUMPInXFkvOcX6SeH Metacritic 75 (best rated 2000 new albums)
+  65 spotify:user:cabal76:playlist:47otNpqE40oX6ehxV4KrSG Pitchfork 8.0 (2015 best reviewed albums, full albums)
+  66 spotify:user:cabal76:playlist:16SotFFEMZ8MZlbzgypB4W Pitchfork 8.0 (2015 best reviewed albums, 3 songs)
+  67 spotify:user:cabal76:playlist:4KyMPs53CFdDm6GcmwVO7H Pitchfork 8.0 (2014 best reviewed albums, full albums)
+  68 spotify:user:cabal76:playlist:1lyXafkwi9JQAJSH9BIQWY Pitchfork 8.0 (2014 best reviewed albums, 3 songs)
+  69 spotify:user:cabal76:playlist:6bqXNKLzk2nk7Neri9BLzp BBC Sound of 2014 (The Longlist)
+  70 spotify:user:cabal76:playlist:1oehGmNZty4RDwAipI3f6a Blitz - 25 Best Portuguese Albums (2009)
+  71 spotify:user:cabal76:playlist:49PRPKNWyp8Uh47AjbQPZp Entertainment Weekly's 100 Greatest Albums Ever (full albums)
+  72 spotify:user:cabal76:playlist:0DsyRIp2q8iYEPSsfzMGbm Entertainment Weekly's 100 Greatest Albums Ever (3 tracks each album)
+  73 spotify:user:cabal76:playlist:1uIpcZKtjVaw6MzN25TfvO The ultimate History of Modern Music Mammoth from the Guardian
+  74 spotify:user:cabal76:playlist:4nwslh3zKXryY0M0TTJV07 Jazz Magazine - 101 Masterpieces You Haven't Heard (2016)
+  75 spotify:user:cabal76:playlist:00dsBUP7zj6EZxqgtVmvG7 Mojo The Beatles 101 Greatest Songs
+  76 spotify:user:cabal76:playlist:5F2HvzxGuYOCcxzkuJpBZS Mojo The 'Other' 120 Beatles Songs
+  77 spotify:user:cabal76:playlist:1ReD1TJqHFo5iV4y7lda11 Mojo 50 Greatest Beach Boys Songs (2015)
+  78 spotify:user:cabal76:playlist:4qde4AeT8TW3WO38q0ZSSF The 100 Greatest Drug Songs Ever (Mojo, 2002)
+  79 spotify:user:cabal76:playlist:41qZPdUyFhWt8jWZi6z24k Mojo Ultimate Jukebox B-side
+  80 spotify:user:cabal76:playlist:6i6KxcbSH5OkG9ZcUuNfyg Mojo Ultimate Jukebox A-side
+  81 spotify:user:cabal76:playlist:7GLpWf9pxj5szAsy6mBKPv Mojo The 100 Greatest Bob Dylan Songs
+  82 spotify:user:cabal76:playlist:3LdqiSnKk2OD4upVVj8Yuj Mojo The 50 Greatest Neil Young Songs
+  83 spotify:user:cabal76:playlist:3AXP2gG75YebNkBDpQ5qO7 Mojo The 100 Albums That Shook the Last 20 Years (voted by readers, 1993-2012)
+  84 spotify:user:cabal76:playlist:3w5fZxdGPdZFptBnpiGdJY The Top 20 Albums of Mojo's Lifetime (1993-2012, voted by readers)
+  85 spotify:user:cabal76:playlist:1wbnSy0NCAxkjP8bMUJkv3 Mojo Top 50 Island Records (mammoth)
+  86 spotify:user:cabal76:playlist:2YAQboKjiLwGF1mDo37s2F Mojo Top 50 Island Records (lite)
+  87 spotify:user:cabal76:playlist:0VvKDwJRF2QfcjxbJeOZQC Mojo The 60 Greatest Elektra Albums (radio elektra)
+  88 spotify:user:cabal76:playlist:19tiFO5cgTZdTT2NUeEqKa Mojo The 60 Greatest Elektra Albums (mammoth)
+  89 spotify:user:cabal76:playlist:1wi9lnSvd8wx5mrgEHA0Fo TCGTD - The Golden Age of Hip Hop (Fantasy Boxset)
+  90 spotify:user:cabal76:playlist:6uqEq9uWLFFxRwBUZxvDTW TCGTD - Relationships: Odes for the resentful ex-lover
+  91 spotify:user:cabal76:playlist:5P72bAjKOgWFSLdPx0y6Q1 TCGTD - Relationships: Sex symbol anthems
+  92 spotify:user:cabal76:playlist:1ql1qCIEczVQ8iqcGaiU29 TCGTD - Relationships: Mum, there's something I've been meaning to tell you
+  93 spotify:user:cabal76:playlist:6rUIe54L4wOzAVmPQmKm5G TCGTD - Relationships: How to lure back a lover
+  94 spotify:user:cabal76:playlist:7oBpxWJ92F1UEOEoScocTR TCGTD - Relationships: Tunes to get jiggy to
+  95 spotify:user:cabal76:playlist:5VSLcxF00CHk9hAajUkuje TCGTD - Relationships: It's all over now
+  96 spotify:user:cabal76:playlist:4JPLUSgCA2k3uXUsVWE16A TCGTD - Locations: The transatlantic flight mix
+  97 spotify:user:cabal76:playlist:2WgJDJqfkcwOPehLwUasGn TCGTD - Locations: From LA to Vegas on the rock'n'roll highway
+  98 spotify:user:cabal76:playlist:4Gv5FtGXvOVuqRGDZ8zwIJ TCGTD - Locations: Music To Watch Sunrise To
+  99 spotify:user:cabal76:playlist:5ulsSvvb50rybJ3GGXIG97 TCGTD - If You Like... The Mammoth
+ 100 spotify:user:cabal76:playlist:3nQ68yp9oea4b81xDriX8S TCGTD - If You Like... Gorillaz' Feel Good Inc
+ 101 spotify:user:cabal76:playlist:20zAr3qrebQ2AYGcdnZrL1 TCGTD - If You Like... The Game's Dreams
+ 102 spotify:user:cabal76:playlist:7juih7YhOwrSZdnucDra5p TCGTD - If You Like... Pink Floyd's Wish You Were Here
+ 103 spotify:user:cabal76:playlist:1BKNdjN5twUS8S6Ynl00mV TCGTD - If You Like... Kaiser Chiefs' I Predict a Riot
+ 104 spotify:user:cabal76:playlist:5ILQN0V3NN2bY7jG6izMu9 TCGTD - If You Like... Beyonce's Crazy in Love
+ 105 spotify:user:cabal76:playlist:2Zp5IGHv654nwqIyCbX6Ls TCGTD - If You Like... Outkast's Hey Ya!
+ 106 spotify:user:cabal76:playlist:7zR9AYkCvilLDdFLO8LQ0U TCGTD - If You Like... Foo Fighters' Best of You
+ 107 spotify:user:cabal76:playlist:0ICmBrbdfzdBI2l2hYckZk TCGTD - If You Like... The Streets' Dry Your Eyes
+ 108 spotify:user:cabal76:playlist:2VwUtTkrS5iFghcH4bWxEV TCGTD - If You Like... James Blunt's You're Beautiful
+ 109 spotify:user:cabal76:playlist:1LXayOApEwBgJ5Wl1dT3qc TCGTD - If You Like... Franz Ferdinand's Take Me Out
+ 110 spotify:user:cabal76:playlist:2e8EbeW7JMjLFRJMs2Xp4u TCGTD - If You Like... Coldplay's Fix You
+ 111 spotify:user:cabal76:playlist:70acYlioZrefCRqjY8b9QC TCGTD - Times of Day - Songs For a Rainy Day
+ 112 spotify:user:cabal76:playlist:3YrLjj507PzZjbxtnsbODo TCGTD - Times of Day - Sounds For Slathering on the Factor 25 To
+ 113 spotify:user:cabal76:playlist:4m0ReGYhpjSHgG42YHwGRN TCGTD - Times of Day - The Morning After...
+ 114 spotify:user:cabal76:playlist:3bVLW8tsAyXzCksepClKTq TCGTD - Times of Day - Songs for Sleepless Nights
+ 115 spotify:user:cabal76:playlist:0tStuSBu0XbH8lwYzBzXtE TCGTD - Times of Day - Songs To Get Your Glad Rags On To
+ 116 spotify:user:cabal76:playlist:2rH9MxWxKFMHkDpUggULU2 Mucchio Extra 100: Rock 1991-2000 (graduated)
+ 117 spotify:user:cabal76:playlist:6noFQIVg9wn28Wr92XUWss Mucchio Extra 100: Rock 1991-2000 (mammoth)
+ 118 spotify:user:cabal76:playlist:3w6W7ACDjCNq6MF9lyMj7u Mucchio Classic Rock #16 - Blues from 1920s to 1960s (lite)
+ 119 spotify:user:cabal76:playlist:68sDqkNek3Fw4LBmKUSYhI Mucchio Classic Rock #16 - Blues from 1920s to 1960s (mammoth)
+ 120 spotify:user:cabal76:playlist:1o2GgXB217T5hqdlcxeV0P Mucchio Classic Rock #15 - Harmony Pop USA 1965-70 (lite)
+ 121 spotify:user:cabal76:playlist:061ckK1jeptjKOvVeRaVGy Mucchio Classic Rock #15 - Harmony Pop USA 1965-70 (mammoth)
+ 122 spotify:user:cabal76:playlist:3Os49E3V6SkFmqi6SQmRQo Mucchio Classic Rock #14 - Italian "cantautori" 1971-1977 (lite)
+ 123 spotify:user:cabal76:playlist:43RCJVisS5Vlpi4mJQSbZv Mucchio Classic Rock #14 - Italian "cantautori" 1971-1977 (mammoth)
+ 124 spotify:user:cabal76:playlist:2O1CkX3Rc30tB8SwTHv3rT Mucchio Classic Rock #13 - Soul 1959-1972 (lite)
+ 125 spotify:user:cabal76:playlist:6H6dqNcIgFWHMuiqBZz6si Mucchio Classic Rock #13 - Soul 1959-1972 (mammoth)
+ 126 spotify:user:cabal76:playlist:5VXeEowg9QA6Hi2qVJafe4 Mucchio Classic Rock #12 - Hip Hop Old Skoll 1981-1991 (lite)
+ 127 spotify:user:cabal76:playlist:2OlZxBVOd6XSKjN8k1uANA Mucchio Classic Rock #12 - Hip Hop Old Skool 1981-1991 (mammoth)
+ 128 spotify:user:cabal76:playlist:3RKsoHs1BlMaMrPEH5p4MK Mucchio Classic Rock #11 - Hardcore-Punk USA 1980-1983 (lite)
+ 129 spotify:user:cabal76:playlist:2aqeoFHVYrGIowO26as6yg Mucchio Classic Rock #11 - Hardcore-Punk USA 1980-1983 (mammoth)
+ 130 spotify:user:cabal76:playlist:7KAasQ3ymYcDtYNglh1C3l Mucchio Classic Rock #10 - White Man's Blues 1965-77 (lite)
+ 131 spotify:user:cabal76:playlist:6v9YwRjCsliSxiT5St7oln Mucchio Classic Rock #10 - White Man's Blues 1965-77 (mammoth)
+ 132 spotify:user:cabal76:playlist:7EFHOFrIqE3ly016uRA6D5 Mucchio Classic Rock #9 - Krautrock (lite)
+ 133 spotify:user:cabal76:playlist:3Gr7wsvDd4GIrCvJyjGwzP Mucchio Classic Rock #9 - Krautrock (mammoth)
+ 134 spotify:user:cabal76:playlist:6wogKY2HTAjuOm6jVHEWdp Mucchio Classic Rock #8 - Reggae 1968-1981 (lite)
+ 135 spotify:user:cabal76:playlist:2Ass5rStvhg968wReTzHBV Mucchio Classic Rock #8 - Reggae 1968-1981 (mammoth)
+ 136 spotify:user:cabal76:playlist:73nTi2RG80LChUXj5n2k56 Mucchio Classic Rock #7 - Canterbury (lite)
+ 137 spotify:user:cabal76:playlist:2uFss6Lv20yZCg1Gnm12sG Mucchio Classic Rock #7 - Canterbury (mammoth)
+ 138 spotify:user:cabal76:playlist:4cPEW4cAX5rLuKebXiTh0Y Mucchio Classic Rock #6 - Power-Pop (lite)
+ 139 spotify:user:cabal76:playlist:5RddyFrPWQcF93LAxZfhVM Mucchio Classic Rock #6 - Power-Pop (mammoth)
+ 140 spotify:user:cabal76:playlist:4qW6wVrFN2x1lbBxoSZO8A Mucchio Classic Rock #5 - Psichedelia 1965-xxxx (mammoth)
+ 141 spotify:user:cabal76:playlist:6yvZydmrRcKJdZrhm1E3pL Mucchio Classic Rock #5 - Psichedelia 1965-xxxx (lite)
+ 142 spotify:user:cabal76:playlist:0ZwoYd58gIJmVbDR89N28c Mucchio Classic Rock #4 - Hard Rock 1968-1975 (mammoth)
+ 143 spotify:user:cabal76:playlist:3w7YflH77FfsKeAq7hREoa Mucchio Classic Rock #4 - Hard Rock 1968-1975 (lite)
+ 144 spotify:user:cabal76:playlist:0QF9tqmGzh3dxwbaZSFTfe Mucchio Classic Rock #3 - Dark 1980-1985 (lite)
+ 145 spotify:user:cabal76:playlist:3YKXjLy9xnYkhL4GrI0hlF Mucchio Classic Rock #3 - Dark 1980-1985 (mammoth)
+ 146 spotify:user:cabal76:playlist:11Z6LesBIuoduENwbyVc2u Mucchio Classic Rock #2 - New Wave (lite)
+ 147 spotify:user:cabal76:playlist:7IQnDcpgT89i31VV1W3pHW Mucchio Classic Rock #2 - New Wave (mammoth)
+ 148 spotify:user:cabal76:playlist:19UKW2ZW8xV01kZVFqHcWC Mucchio Classic Rock #1 - Punk '77 Top Albums (lite)
+ 149 spotify:user:cabal76:playlist:7aF5UIe9TdVvR8WDlS22Sk Mucchio Classic Rock #1 - Punk '77 Top Albums (mammoth)
+ 150 spotify:user:cabal76:playlist:1WCFEuqL8QFLdSIPsRUtpc Nerve - 50 Greatest Breakup Songs of All Time (2012)
+ 151 spotify:user:cabal76:playlist:20PZ9xj48CiuymjiG2XOU4 NYMag Brooklyn Top 40
+ 152 spotify:user:cabal76:playlist:0ZZSpfIA8eUUOLAEpN9m2x The New Yorker Songs of the Years
+ 153 spotify:user:cabal76:playlist:6Y6XqEao9oCKBP5H9236fl NME 100 Tracks of the Decade 2000-2009 (2012)
+ 154 spotify:user:cabal76:playlist:2xleFjwqHORLrVcLwWoakU NME 50 Awesome Music Movies
+ 155 spotify:user:cabal76:playlist:3MguDVDM0fdSK25W7dy6rb NME 51 Best Debut Albums in the Last 51 Years (mammoth)
+ 156 spotify:user:cabal76:playlist:4YbUTAjUN7wCy6eyqdIE4M NME The 500 Greatest Albums of All Time
+ 157 spotify:user:cabal76:playlist:5GDypP6NZfk6YkM4bpc8ni NME The 500 Greatest Songs of All Time
+ 158 spotify:user:cabal76:playlist:5Miyif3jtgfPT4rjKfA2zD NME 55 Incredible Albums Celebrating Huge Anniversaries In 2014
+ 159 spotify:user:cabal76:playlist:7qZ2LsC1W1SL03FsAlHg4s NME 55 Incredible Albums Celebrating Huge Anniversaries In 2014 (3 tracks) 
+ 160 spotify:user:cabal76:playlist:0ha0Rih0YF7eG1ESTaaWof NME The 50 Best Remixes Ever
+ 161 spotify:user:cabal76:playlist:4RmaExkYYecfHnJ7Gp4f6I NME Druggiest Albums Ever (lite)
+ 162 spotify:user:cabal76:playlist:5ayXZsm6XjbqvOsNerwsgm NME Druggiest Albums Ever (mammoth)
+ 163 spotify:user:cabal76:playlist:6D6ELNWPNeMMAYv7Xrsp6e NME 51 Best Debut Albums in the Last 51 Years (lite)
+ 164 spotify:user:cabal76:playlist:6LHdjG12ZvknMJBScgNQB6 NME 50 Best New Bands of 2010
+ 165 spotify:user:cabal76:playlist:0t3MSkkivGXrfYnmprMxeZ NPR The Decade's 50 Most Important Recordings (mammoth)
+ 166 spotify:user:cabal76:playlist:1Jgt8edH9bzlqwPvpsTwhS NPR The Decade's 50 Most Important Recordings (lite)
+ 167 spotify:user:cabal76:playlist:7xzh7uXdklAfFZVO6m4Z4r NPR's 70-song SXSW Playlist
+ 168 spotify:user:cabal76:playlist:2KZwvjH7wdEtwFzCEsRmvU NPR Best Music of first half of 2010 (lite)
+ 169 spotify:user:cabal76:playlist:4FdnUAgAl2KKvFUoLa1EAO NPR Best Music of first half of 2010 (mammoth)
+ 170 spotify:user:cabal76:playlist:2H9JWFf8lMi7kzZpsav0Lo Nuorgam (Finland) Best 111 Finnish Songs of 2000s
+ 171 spotify:user:cabal76:playlist:0uSMYp7G6cYH631NQqRPeC Nuorgam (Finland) Best 111 Foreign Songs of 2000s
+ 172 spotify:user:cabal76:playlist:7iMqEujIiOq9A5jLNwoHOm Pitchfork The 200 Best Songs of the 1980s
+ 173 spotify:user:cabal76:playlist:21R58bpyZAMe1t24SGWeHl The Pitchfork 500: 2003-06
+ 174 spotify:user:cabal76:playlist:3KTAZgGEU7AS8n50lMJCWg The Pitchfork 500: 2000-02
+ 175 spotify:user:cabal76:playlist:7JHi3sWJ9OkyhI0JkFplXh The Pitchfork 500: 1997-99
+ 176 spotify:user:cabal76:playlist:52bsfqsqb2wDhMdOY3NnlF The Pitchfork 500: 1994-96
+ 177 spotify:user:cabal76:playlist:2L91KOXDSwe1eP8dMwYSvj The Pitchfork 500: 1991-93
+ 178 spotify:user:cabal76:playlist:5OhJcK5x5NTPnH8aG9SyH7 The Pitchfork 500: 1987-90
+ 179 spotify:user:cabal76:playlist:6ulsTaS3kLR3yWc2VIc6en The Pitchfork 500: 1983-86
+ 180 spotify:user:cabal76:playlist:7FhHfMZoVwBKHII6mCsph1 The Pitchfork 500: 1980-82
+ 181 spotify:user:cabal76:playlist:3R8qoL6J4GUC3lQsxUS53x The Pitchfork 500: 1977-79
+ 182 spotify:user:cabal76:playlist:03LUlxBZq6TpIUX3Abdsc0 Pitchfork The 100 Best Albums of 2010-2014
+ 183 spotify:user:cabal76:playlist:2Ojqwc2663qVtM4G1qbZJT Pitchfork The 200 Greatest Songs of the 1960s
+ 184 spotify:user:cabal76:playlist:2wIiv4lfeMn9cqW9VYAUe6 Pitchfork Top 100 Albums of the 70s (Mammoth)
+ 185 spotify:user:cabal76:playlist:18Vq0UxFBbExOcFjmv4QNL Pitchfork Top 200 Tracks of 1990s (regular)
+ 186 spotify:user:cabal76:playlist:4SM2cpqT5cvFKxB1CTCr6f Pitchfork Top 100 Albums of the 1980s (full albums)
+ 187 spotify:user:cabal76:playlist:4leXO6mAHePHLZJvZXbTOx Pitchfork The 200 Best Tracks of 2010-2014
+ 188 spotify:user:cabal76:playlist:675SkgxLMqaBn0wVjPh682 Pitchfork Best New Music 2012 (lite)
+ 189 spotify:user:cabal76:playlist:0eMTgItZCuneHu4GXz6WAG Pitchfork Best New Music 2011 (full albums)
+ 190 spotify:user:cabal76:playlist:4YAlHI0u5bcmTvHTiMOrEN Pitchfork Best New Music 2011 (lite)
+ 191 spotify:user:cabal76:playlist:5kPfRqLa8HuFth6jyJbHSF Pitchfork Top 100 Albums of the 1980s (graduated)
+ 192 spotify:user:cabal76:playlist:0G2F3sB0IxHrqDO1qIaXRk Pitchfork Top 200 Tracks of 1990s (the 69)
+ 193 spotify:user:cabal76:playlist:1pvrV7xdl7LPRh499X0xXJ Pitchfork Top 200 Tracks of 1990s (mammoth, with alternative tracks)
+ 194 spotify:user:cabal76:playlist:5HXBcfMA3gFvwuO12Jy93d Pitchfork Top 100 Albums of the 70s (Lite)
+ 195 spotify:user:cabal76:playlist:3L93k2Bg9OC3AF8ovDkrip Pitchfork Top 100 Albums of the 70s (Graduated)
+ 196 spotify:user:cabal76:playlist:1hGwsjJ0DlmLZV1WWnobGK Pitchfork Best New Music 2003
+ 197 spotify:user:cabal76:playlist:7iYtvZeURCIewkZzaLW79i Pitchfork Best New Music 2010 (final update!)
+ 198 spotify:user:cabal76:playlist:4SUWfHQ6WH6ViZeLhyHhc7 Pitchfork Best New Music 2010 Full Albums Edition
+ 199 spotify:user:cabal76:playlist:6dV7tdP1NN68GocsX3dmlF Q 50 Years of Great British Music (Tracks)
+ 200 spotify:user:cabal76:playlist:0NqI1LDx1PUIKKzRs86sti Q 50 Years of Great British Music (Albums)
+ 201 spotify:user:cabal76:playlist:7asv733ycKZKOgby7Ytl7u Rockdelux - The 150 Best Albums from the 1990s (2000)
+ 202 spotify:user:cabal76:playlist:741mM5qfvRpFEzzOZNvtYh Rolling Stone 500 Greatest Songs of All Time (2004)
+ 203 spotify:user:cabal76:playlist:4qgMCRZMBB1bIMbMqPaDxJ RS 500 Greatest Albums of All Time (2012)
+ 204 spotify:user:cabal76:playlist:08Cms5AMqAofVvatE7MXID RS 500 Greatest Albums of All Time (2003, 3 tracks)
+ 205 spotify:user:cabal76:playlist:0zDl0Tm7spi4KCuiCRXwIl RS 500 Greatest Albums of All Time (2003)
+ 206 spotify:user:cabal76:playlist:5HpGSpELeqO2eCluwiPgvG RS 500 Greatest Albums of All Time (2012, 3 tracks)
+ 207 spotify:user:cabal76:playlist:3AZx5DL3E51oF5k3pQjXWi Rolling Stone 100 Best Songs of the 2000s
+ 208 spotify:user:cabal76:playlist:2iBh7BqFA1e9wFkBRnmf1n Rolling Stone 100 Best Albums of the 2000s (3 tracks)
+ 209 spotify:user:cabal76:playlist:1kLrB9ODnQfZAw7qUZfXPC Rolling Stone 100 Best Albums of 2000s (full albums)
+ 210 spotify:user:cabal76:playlist:1F9tWwNEdR5vcSuBO6VBZw Rolling Stone Playlists: Peter Wolf: Live R&B Songs
+ 211 spotify:user:cabal76:playlist:2ITdWPxXsoCvqYpvg04dqO Rolling Stone Playlists: Cee Lo: The Best Dirty South Hip Hop
+ 212 spotify:user:cabal76:playlist:2mTJb3By847JSfJ2f4z4b2 Rolling Stone Playlists: Annie Lennox: Women With Soul
+ 213 spotify:user:cabal76:playlist:55IPTQIHbMZ0HIIBHDnoys Rolling Stone Playlists: Ezra Koenig: UK Pop Hits
+ 214 spotify:user:cabal76:playlist:6iTnVzPYZLnuLdXT0iUeoX Rolling Stone Playlists: Rufus Wainwright: Leonard Cohen
+ 215 spotify:user:cabal76:playlist:5jCQ5zVdQ2oki7xz3d4TjH Rolling Stone Playlists: Chris Robinson: The Rolling Stones
+ 216 spotify:user:cabal76:playlist:5m4XfV2XoxDejF6yKHphfH Rolling Stone Playlists: Dave Grohl: '80s Hardcore
+ 217 spotify:user:cabal76:playlist:54yYIsaS5HE9FEq52eJrDv Rolling Stone Playlists: Jenny Lewis: '70s California Rock 
+ 218 spotify:user:cabal76:playlist:4RGHZlZZcW1PvWXISh1Srz Rolling Stone Playlists: Jack Johnson: Bob Marley
+ 219 spotify:user:cabal76:playlist:08tjB4pbLgWEYOQzzYSV91 Rolling Stone Playlists: ?uestlove: Prince
+ 220 spotify:user:cabal76:playlist:3lKTfkH1d6IjFov8UlRiNi Rolling Stone Playlists: Bono: David Bowie
+ 221 spotify:user:cabal76:playlist:6S4aWjGcln6GUoHi7SFfm2 Rolling Stone Playlists: Yoko Ono: John Lennon
+ 222 spotify:user:cabal76:playlist:52OJX6GjmlUl9RUZUajC3Q Rolling Stone Playlists: Keith Richards: Roots & Reggae
+ 223 spotify:user:cabal76:playlist:7s7AseOz7Pscfc9wzI9yn9 Rolling Stone Playlists: Win Butler: Bruce Springsteen
+ 224 spotify:user:cabal76:playlist:2xpgoIb1cCBKJC9HyKoTiJ Rolling Stone Playlists: Gerard Way: Glam Rock
+ 225 spotify:user:cabal76:playlist:14wG5D9OQM27kQ8H1qQfJL Rolling Stone Playlists: Jim James: Curtis Mayfield
+ 226 spotify:user:cabal76:playlist:2Le48hroIDaR6lO91uPAE4 Rolling Stone Playlists: Art Garfunkel: Great Vocal Groups
+ 227 spotify:user:cabal76:playlist:45KxSMO6t1WRltRM9OoYqG Rolling Stone Playlists: Adam Levine: The Police
+ 228 spotify:user:cabal76:playlist:7jx0cwoAzw5eho17aRVoT5 Rolling Stone Playlists: Lucinda Williams: Country Women
+ 229 spotify:user:cabal76:playlist:0WbhZREwHwW4PLXXy2CO70 Rolling Stone Playlists: Alice Cooper: Pete Townshend
+ 230 spotify:user:cabal76:playlist:28GewWwN6D0pLoXWCi8Nof Rolling Stone Playlists: Lars Ulrich: Classic Rock and Hard Metal
+ 231 spotify:user:cabal76:playlist:3F8wWyNkcL3FM1kZOvW4k8 Rolling Stone Playlists: Robbie Robertson: New Orleans Music
+ 232 spotify:user:cabal76:playlist:4Gug36LCFg4grcxUhxt7UI Rolling Stone Playlists: Mammoth
+ 233 spotify:user:cabal76:playlist:05TEVSo6bNhmZBM2PZrfrm Slant Best Singles of the 90s
+ 234 spotify:user:cabal76:playlist:5mEbnvcAmnGwcEuBASCqgw Spin 125 Best Albums of the Last 25 Years (short version)
+ 235 spotify:user:cabal76:playlist:4kWyv9qKNMHt5mq1tCoQbf Spin 125 Best Albums of the Last 25 Years (full albums playlist) 
+ 236 spotify:user:cabal76:playlist:4c3Fdt8O6DdJQqrk3ba9hC Stereogum Indie Songs of the Summer 2012
+ 237 spotify:user:cabal76:playlist:5ll2bxUSceiRb7OYX19zLS Stereogum 40 Best New Bands of 2010
+ 238 spotify:user:cabal76:playlist:0PlsFC4d6bEQHoySbIZt9i Telegraph's 100 Songs that Defined the Noughties
+ 239 spotify:user:cabal76:playlist:7lPALixLc0EKPDF5bzRxZx Tylko Rock - 100 Albums That Shook Polish Rock (1999)
+ 240 spotify:user:cabal76:playlist:16clTaGscgvpMVH7XHakzJ Uncut 200 Greatest Albums of All Time (2016)
+ 241 spotify:user:cabal76:playlist:2cnzNEKKofqvNWPgJ9iNqB Uncut's 50 Greatest Singer/Songwriter Albums (complete)
+ 242 spotify:user:cabal76:playlist:3yrz71UE4YkqA70v87AOa8 Uncut's 50 Greatest Singer/Songwriter Albums (3-track)
+ 243 spotify:user:cabal76:playlist:6E9wfH0mlnjjayL7kx5ASk Rock and Roll Hall of Fame - Performers
+ 244 spotify:user:cabal76:playlist:3uZeoCjPnJervsWkdxjF0O Rock and Roll Hall of Fame - Early Influences
+ 245 spotify:user:cabal76:playlist:7nt7ZPO9XA95JYCpQZvHpl The Complete Mercury Prize mammoth (1992-2014 Winners and Shortlisted Full albums)
+ 246 spotify:user:cabal76:playlist:5LXs9AhIQjBVZ1PoCgpj2Q Mercury Prize Winners (1992-2014)
+ 247 spotify:user:cabal76:playlist:1wq6vrHH7vjxraOvSFrdFj Mercury Prize Shortlist 2014
+ 248 spotify:user:cabal76:playlist:4MEysxrEgH7r6FHjvD4PFh Mercury Prize 2013 Shortlist
+ 249 spotify:user:cabal76:playlist:78VZEQGW4bv3MzQ9bwsebL Mercury Prize 2011 (shortlist, full albums)
+ 250 spotify:user:cabal76:playlist:7dhuZEypwS9AhFcwrwI4Gx Mercury Prize 2011 (shortlist, lite)
+ 251 spotify:user:cabal76:playlist:0LB1MwPOgjlncGNdgRW2S6 The Mercury Prize 69
+ 252 spotify:user:cabal76:playlist:0J3xvgmjLILC1nRIQMFhOv The Complete Mercury Prize lite (1992-2013 Winners and Shortlisted Nominees - one song each album)
+ 253 spotify:user:cabal76:playlist:02kAiYZXjqLndwfmRsA0Y3 Mercury Prize 2010 (Winners and Shortlisted Nominees)
+ 254 spotify:user:cabal76:playlist:6Px9SfmhwoqW3B2fvooste The Ivor Novello Awards Spotify Collection (1999-2014)
+ 255 spotify:user:cabal76:playlist:4DzQxLR7pmeFTZIFIjI5WC Polaris Music Prize 2013 Shortlist
+ 256 spotify:user:cabal76:playlist:7BriizCrh3R84qnqXG4nWW Polaris Music Prize Winners
+ 257 spotify:user:cabal76:playlist:1ljcZNImMBKKHhOGnXzd8E Polaris Music Prize - lite (3 songs each shortlisted & winning album, 2006-2010)
+ 258 spotify:user:cabal76:playlist:3tnMjU3fMzk6HKmtBxZjV4 Polaris Music Prize - mammoth (Full shortlisted & winning albums 2006-2010)
+ 259 spotify:user:cabal76:playlist:57nLjEjHLULQZ5qdpIitlN Tenco Prize 2016 Nominations - Best Song
+ 260 spotify:user:cabal76:playlist:4FXIbf3q17tnLrNLshdCYT Tenco Prize 2016 Nominations - Best Cover Album
+ 261 spotify:user:cabal76:playlist:0YnfrB5qhBvwDGNIfi6gsd Tenco Prize 2016 Nominations - Best Album in Dialect
+ 262 spotify:user:cabal76:playlist:5wFEjlziygNjE9L2Olygmh Tenco Prize 2016 Nominations - Best Album
+ 263 spotify:user:cabal76:playlist:2jSe7oYGyw2V78McdyvObo Tenco Prize 2015 Nominations - Best Cover Album
+ 264 spotify:user:cabal76:playlist:1JwALSCV3mQr1s9IcLaCXI Tenco Prize 2015 Nominations - Best Song
+ 265 spotify:user:cabal76:playlist:5MLbpiz4tY02ARFF6oZvSE Tenco Prize 2015 Nominations - Best Debut Album
+ 266 spotify:user:cabal76:playlist:5xe4GS6kzdTEZ5XigO0Mvr Tenco Prize 2015 Nominations - Best Album in Dialect
+ 267 spotify:user:cabal76:playlist:7eeEhhPFNO6VMXSQHD8E1l Tenco Prize 2015 Nominations - Best Album
+ 268 spotify:user:cabal76:playlist:3SP7qiBqhkTOh2I37yL4Jb Targhe Tenco 2014 - Miglior Album (NOMINATION, Italian Prize)
+ 269 spotify:user:cabal76:playlist:3txMM6XfMFqH1CClzaQyIg Targhe Tenco 2014 - Migliore Canzone (NOMINATION, Italian Prize)
+ 270 spotify:user:cabal76:playlist:39VOIH48LxjZe9FZU6KuDk Targhe Tenco 2014 - Migliore Album in dialetto (NOMINATION, Italian Prize)
+ 271 spotify:user:cabal76:playlist:2tg0CV8Opyw9gFVmNW9z9i Targhe Tenco 2014 - Migliore Album Opera Prima (NOMINATION, Italian Prize)
+ 272 spotify:user:cabal76:playlist:75FCrvfPOwjjoJikNovcpy Targhe Tenco 2014 - Migliore Interprete Canzoni non proprie (NOMINATION, Italian Prize)
+ 273 spotify:user:cabal76:playlist:07K0mn8quwrdwnJYYm06Z0 Luca Castelli's La musica liberata
+ 274 spotify:user:cabal76:playlist:1AQq9Wh6bmaTT1P9MrUsK2 Christophe Conte's L'anti-discothèque idéale
+ 275 spotify:user:cabal76:playlist:1r4lwZN38BGVzWtUHcGl9e Nick Hornby's 31 Songs
+ 276 spotify:user:cabal76:playlist:77Syq10He9XcAb1ZNMJEhG Nick Hornby's Fever Pitch
+ 277 spotify:user:cabal76:playlist:0rUKwSnQwdAKmhDA8Wunfy Nick Hornby's High Fidelity
+ 278 spotify:user:cabal76:playlist:70zyWV40wYJHKJnxflIgoI Young Morrissey Jukebox
+ 279 spotify:user:cabal76:playlist:58cKrpCXtOtmgEeocdpAa6 Simon Reynolds' Rip It Up and Start Again (booktrack)
+ 280 spotify:user:cabal76:playlist:7KeAl7toLjdBRJ8u5mFsTy Love Is a Mix Tape #1 - Rumblefish
+ 281 spotify:user:cabal76:playlist:2ArxQzray98kXlgOVPriIS Love Is a Mix Tape #2 - Roller Boogie
+ 282 spotify:user:cabal76:playlist:6TpXzV3s1fjCPMQ5oErqmd Love Is a Mix Tape #3 - Tape 635
+ 283 spotify:user:cabal76:playlist:6LnF6I58tIlK66X1YYlmgX Love Is a Mix Tape #4 - Love Makes Me Do Foolish Things
+ 284 spotify:user:cabal76:playlist:2p1I3NdMArhUoSNiB2We64 Love Is a Mix Tape #5 - Big Star: For Renée
+ 285 spotify:user:cabal76:playlist:4tpSABOu9FGGyQRv7sIt8s Love Is a Mix Tape #6 - Sheena Was a Man
+ 286 spotify:user:cabal76:playlist:1rHIKLqSUCQE0rc6NgdCIb Love Is a Mix Tape #7 - Personics
+ 287 spotify:user:cabal76:playlist:6xy58cd9Vr1xTYXESfIpoI Love Is a Mix Tape #8 - A Little Down, A Little Duvet
+ 288 spotify:user:cabal76:playlist:6sPj59llkWfm0Qs6RyjWYb Love Is a Mix Tape #9 - That's Entertainment
+ 289 spotify:user:cabal76:playlist:1Gf9IZwreiz290x79htzdV Love Is a Mix Tape #10 - The Comfort Zone
+ 290 spotify:user:cabal76:playlist:1hoVrCPnIdgvruIfJAghTf Love Is a Mix Tape #11 - Dancing With Myself
+ 291 spotify:user:cabal76:playlist:2uGysnXFYprHBjwe7DbOFc Love Is a Mix Tape #12 - How I Got That Look
+ 292 spotify:user:cabal76:playlist:3IrlmXlZ8ujeqnQZSdTBOP Love Is a Mix Tape #13 - 52 Girls on Film
+ 293 spotify:user:cabal76:playlist:3h3Ow8CEHiyGnGr0VlGZ6W Love Is a Mix Tape #14 - Crazy Feeling
+ 294 spotify:user:cabal76:playlist:2P2gbQckAkWTs3fKQUlE90 Love Is a Mix Tape #15 - Paramount Hotel
+ 295 spotify:user:cabal76:playlist:7wpmzP3sWIjhVeazQf9ibO Love Is a Mix Tape #16 - Mmmrob
+ 296 spotify:user:cabal76:playlist:6eQ9nBpCqzPSR0FeB21k2T Love Is a Mix Tape #17 - Hypnotize
+ 297 spotify:user:cabal76:playlist:15UPqEQ5J8zv18wAyXq4wQ Love Is a Mix Tape #19 - Glossin' and Flossin'
+ 298 spotify:user:cabal76:playlist:345uZ0jDWHZsnL9012L8PE Love Is A Mix Tape #20 - Blue Ridge Gold
+ 299 spotify:user:cabal76:playlist:3ohLDfC8X52xSEkTIYfwIQ Love Is a Mix Tape #21 - Via Vespucci
+ 300 spotify:user:cabal76:playlist:53uLL84aNyyVgGM8QSTPqg Love Is a Mix Tape Mammoth
+ 301 spotify:user:cabal76:playlist:4ZvInbr4QDkWcniItSRDwT The Beatles Covers Project - Full Playlist
+ 302 spotify:user:cabal76:playlist:3IedNZ00yowX0l1YHu77WW The Beatles Covers Project - Magical Submarine B-Sides
+ 303 spotify:user:cabal76:playlist:6CmreAMHJFMwujP4KpzeYK The Beatles Covers Project - Let It Be
+ 304 spotify:user:cabal76:playlist:3SuS3lxZYrGoAFrCyLF63M The Beatles Covers Project - Abbey Road
+ 305 spotify:user:cabal76:playlist:4MCaQ6usBTj9WOD8qESM8Z The Beatles Covers Project - The Beatles (White Album)
+ 306 spotify:user:cabal76:playlist:3cl5vUtZ4De6KE07XIS570 The Beatles Covers Project - Sgt.Pepper's Lonely Hearts Club Band
+ 307 spotify:user:cabal76:playlist:3V43nZcqf32MERcFQuf8sl The Beatles Covers Project - Revolver
+ 308 spotify:user:cabal76:playlist:2id4bCGkLks6BmBQrwpjAx The Beatles Covers Project - Rubber Soul
+ 309 spotify:user:cabal76:playlist:6jo9YhDkSZ154rZSPC2w48 The Beatles Covers Project - Help!
+ 310 spotify:user:cabal76:playlist:66gpATYCLFCu77zOXqAzAZ The Beatles Covers Project - Beatles For Sale
+ 311 spotify:user:cabal76:playlist:2FYs6yfHICyfkdApn2PzJE The Beatles Covers Project - A Hard Day's Night
+ 312 spotify:user:cabal76:playlist:0HhWH5BdBSeusY4Zv1wTsA The Beatles Covers Project - With The Beatles
+ 313 spotify:user:cabal76:playlist:4lZ49gAKEgVKTu06LRT2ig The Beatles Covers Project - Please Please Me
+ 314 spotify:user:cabal76:playlist:5UShr4Gtuu1XfvOFkM1MTW Big Stars Play Big Star
+ 315 spotify:user:cabal76:playlist:7f1nXXS2aIdmVkekV7UXaN Still in a Dream - A Story of Shoegaze (2016 Creation Records boxset)
+ 316 spotify:user:cabal76:playlist:6xju7otmrK4BqLxNj5bwWM Nuggets Mammoth (I-V)
+ 317 spotify:user:cabal76:playlist:5E35jIBHiMOluaBnCA1MS9 Nuggets III: Children of the Nuggets. Original Artyfacts from the Second Psychedelic Era, 1976-1995
+ 318 spotify:user:cabal76:playlist:5aG9AAppxUeRn08Vo7E2Kw Nuggets IV: Love is the Song We Sing: San Francisco Nuggets, 1965-1970
+ 319 spotify:user:cabal76:playlist:0fEVgA3KGqn5iofQrBSzOu Nuggets V: Where the Action Is! Los Angeles Nuggets 1965–1968
+ 320 spotify:user:cabal76:playlist:2KJudM6YSJviZyvW6Xcae1 Now That's What I Call Music! vol.1-15 (1983-1989)
+ 321 spotify:user:cabal76:playlist:5X3j8OyR3wJRnQxGpRxVfc Now That's What I Call Music! vol.16-30 (1989-1995)
+ 322 spotify:user:cabal76:playlist:4gjVBkb8skCXYVRFooH0eY Now That's What I Call Music! vol.46-60 (2000-2005)
+ 323 spotify:user:cabal76:playlist:5eVc8Y7gM1vTYyyrwFYoQV Now That's What I Call Music! vol.31-45 (1995-2000)
+ 324 spotify:user:cabal76:playlist:1cQWgqXTFby1iCXs37Q4K1 From ACT's Point of View (tribute to ACT Music)
+ 325 spotify:user:cabal76:playlist:0m8SWlPqbPiup5qwoMltdK Spin's 20 Essential Songs from the Deadly Departed Arista, Jive and J Records
+ 326 spotify:user:cabal76:playlist:1W3PJksEQ508YI1Xoz6h5F The UK Blue Stax Singles Collection 1967-68
+ 327 spotify:user:cabal76:playlist:5xoPnwNsLpKfWaSEclroQ9 Kranky Style 69
+ 328 spotify:user:cabal76:playlist:2RXBSV22YQeP7cJ4MPaETj Kranky Archive
+ 329 spotify:user:cabal76:playlist:2treMEeAQTCUcTpC99XMOA Matador at 21
+ 330 spotify:user:cabal76:playlist:1Z7UYhlCYH8fQ86G16Twwe The Sub Pop Singles Club
+ 331 spotify:user:cabal76:playlist:6J2mn4HZsF5BzTc4PzietQ The Sub Pop 69
+ 332 spotify:user:cabal76:playlist:7dBpoXyFEDKFXocyv8MIzj The Sound of... Naive
+ 333 spotify:user:cabal76:playlist:4eLdyo413ofw1lmJ8SK6dI The Sound of... Italian Indie
+ 334 spotify:user:cabal76:playlist:4LdzApgRvSNZGbuiKJZdQD The Sound of... XL
+ 335 spotify:user:cabal76:playlist:5JxLXxD9wuatTG9WhDSEkl The Sound of... Warp
+ 336 spotify:user:cabal76:playlist:1NVLsoQjQhWSzxFI1MHRh0 The Sound of... Too Pure
+ 337 spotify:user:cabal76:playlist:45IAtA8wyhtZOfzACiX2TV The Sound of... Sub Pop
+ 338 spotify:user:cabal76:playlist:3m7DqDwNui0kyZVkdC4CsT The Sound of... Secretly Canadian
+ 339 spotify:user:cabal76:playlist:1ogJhnyVcBf0xERD75Anod The Sound of... Rough Trade
+ 340 spotify:user:cabal76:playlist:7brO6BA6eQrb9yYnSCU0O9 The Sound of... Polyvinyl
+ 341 spotify:user:cabal76:playlist:1yl47C1XD0b4eKR74ali3T The Sound of... Pias
+ 342 spotify:user:cabal76:playlist:1bD1SzwxvDtiTPdBhFfVQv The Sound of... Morr Music
+ 343 spotify:user:cabal76:playlist:6RFWm9J7K3J1uO6zoktgp7 The Sound of... Merge Records
+ 344 spotify:user:cabal76:playlist:5gAp1HJBva8xvj4G8fUcDr The Sound of... Matador
+ 345 spotify:user:cabal76:playlist:7gzSxuqFQS1NAgKg5Hb1De The Sound of... Kitty-Yo
+ 346 spotify:user:cabal76:playlist:1rukZ1HvdGwqqUoqx1YoMj The Sound of... Jagjaguwar
+ 347 spotify:user:cabal76:playlist:5ny6GdvQZ0h2XJaDGXRhdj The Sound of... Fat Cat
+ 348 spotify:user:cabal76:playlist:3iZposlUJ7AHgUIoufUNsE The Sound of... Epitaph
+ 349 spotify:user:cabal76:playlist:3C3F0qNB3zV27zR9x53QHd The Sound of... Domino
+ 350 spotify:user:cabal76:playlist:62E69Vs8oSRBcLnVjnk49j The Sound of... Dischord
+ 351 spotify:user:cabal76:playlist:6XY05Sunul6PFMdjPfgZQl The Sound of... City Slang
+ 352 spotify:user:cabal76:playlist:6oB1dXRoKG1ulmNuYATARp The Sound of... Chemikal Underground
+ 353 spotify:user:cabal76:playlist:166iUJ8gkiHJiZnuj2vsMZ The Sound of... Bella Union
+ 354 spotify:user:cabal76:playlist:4fFGqPAaOe8IeqMqTsfJDh The Sound of... Beggars Banquet
+ 355 spotify:user:cabal76:playlist:6CE2MenZajbqRxsZf7S588 The Sound of... Arts & Crafts
+ 356 spotify:user:cabal76:playlist:5NI6BdSo7v2p17XgjjXsWE The Sound of... Anti
+ 357 spotify:user:cabal76:playlist:4MGbELUiyzziEk9sU4VUem The Sound of... Acuarela Discos
+ 358 spotify:user:cabal76:playlist:7x9FU1vnvLRBjdJ6Kt1fo9 The Sound of... 4AD
+ 359 spotify:user:cabal76:playlist:4YRLGpFF48nz3DAvQIYkTU UK's Official 60 Biggest Selling Albums of All Time (2016)
+ 360 spotify:user:cabal76:playlist:2SV9Bv6aNi33Bur51qY0ci RIAA Top 100 Certified Albums
+ 361 spotify:user:cabal76:playlist:3HfcKu7upXhL5PpwNjPsYH Songs of British Artists #1 in the USA
+ 362 spotify:user:cabal76:playlist:1YIU7FVd3zEBCFgvyHVPy8 Billboard #1 Alternative Rock Hits (in U.S.) from 1988 to 2014
+ 363 spotify:user:cabal76:playlist:44BiOfm339YC6hY9DIsKy9 King Britt's Sonic Journey Into Afrofuturism
+ 364 spotify:user:cabal76:playlist:7jVzLnispTEhDscIsYhe38 The 100 Greatest Britpop Songs Ever (NME, 2013)
+ 365 spotify:user:cabal76:playlist:4lJeBUUj2A8JasMXqSf7jY Top 40 Britpop Anthems (BBC6 Listeners)
+ 366 spotify:user:cabal76:playlist:3frSK1YSVMYTK5Imst6H1u RockFirst Top 30 Britpop Albums of the 90s (mammoth)
+ 367 spotify:user:cabal76:playlist:4MZaSfh08cSllIT4jRJD2E RockFirst Top 30 Britpop Albums of the 90s (lite)
+ 368 spotify:user:cabal76:playlist:3AKnsrOoWD438AIyrnSGT9 MusicRadar's The 25 Best Christmas Songs of All Time
+ 369 spotify:user:cabal76:playlist:0mZIehecoQuiaWdWaq4dML Country's Top 100 (PopMatters)
+ 370 spotify:user:cabal76:playlist:5RBnaBb9pmEzWwD2erfCOa 50 Best Cover Songs of All Time (BBC, 2014)
+ 371 spotify:user:cabal76:playlist:0gRxgemsoVPZhLbZ1TSDA6 OK Computer Reimagined
+ 372 spotify:user:cabal76:playlist:3IeJFigGWGM3MSFrW2lg7w Re-Record Club: Blood on the Tracks (Bob Dylan)
+ 373 spotify:user:cabal76:playlist:38SYFerh1zk22PmvWGIfDW Bob Dylan's 70th Dream (A covers' tribute to the dear ol' Bob)
+ 374 spotify:user:cabal76:playlist:32be6hhlNFT36xQayQnSep 100 Greatest IDM Tracks (Fact)
+ 375 spotify:user:cabal76:playlist:6O2twpDZhjcBOVm0a3Rxqv Last Night a DJ Saved My Life - Warehouse Top 50
+ 376 spotify:user:cabal76:playlist:1wn5Md3mD8Kt7OtpRDaPLo 50 Best Electronic Albums 1985-2005 (Dance De Lux, 2005, 3 tracks)
+ 377 spotify:user:cabal76:playlist:7s8oBsgQn6cByoNtnnT1ir 50 Best Electronic Albums 1985-2005 (Dance De Lux, 2005, full albums)
+ 378 spotify:user:cabal76:playlist:79AeuU7kB7LuryhblBdE7b 34 Greatest Trance Tracks (Fact, 2014)
+ 379 spotify:user:cabal76:playlist:1cYZD1xdMO8TNkcFF15R4Q Pete Tong's Top 20 Dance Tracks of Last 20 Years (shortlist)
+ 380 spotify:user:cabal76:playlist:49SMnyxpehN9PCew5FJRCu Pete Tong's Top 20 Dance Tracks of Last 20 Years (final 20)
+ 381 spotify:user:cabal76:playlist:4hR0J7iSuZLhqEl5w28BfW Philly's Making Time 10th Anniversary playlist
+ 382 spotify:user:cabal76:playlist:0Svk53S9ER23SUgMKX0U3v The Last Optimo Waltz
+ 383 spotify:user:cabal76:playlist:58cXrS2zzwGqOLeSEOJkvs LAWeekly's Top 20 Emo Albums In History
+ 384 spotify:user:cabal76:playlist:754tXaVBGPkvRKW4Q525pf Top 50 Grunge Songs (crowdsourced)
+ 385 spotify:user:cabal76:playlist:7dVodXkYSKddZf91QQXYxO The 100 Jazz Albums That Shook the World (Jazzwise)
+ 386 spotify:user:cabal76:playlist:7x8BETMbsCgrXyC3GdwiNk Blue Note Records 75th Anniversary Vinyl Initiative
+ 387 spotify:user:cabal76:playlist:2Sw2QE8Y7jvwDcITUSwPWC Jazz24.org 100 Quintessential Jazz Songs
+ 388 spotify:user:cabal76:playlist:6Yz3eIPVjP0DKepZyAxqS2 The Rudy Van Gelder Editions (lite)
+ 389 spotify:user:cabal76:playlist:63TMGnWFYFfZkxZa9Au9Nm The Golden Age of MTV Unplugged (Lite)
+ 390 spotify:user:cabal76:playlist:06ZYXpN32NCy4dJkXgIsvw The Golden Age of MTV Unplugged (Mammoth)
+ 391 spotify:user:cabal76:playlist:5RIiFmpjRg0heONqdNmFXK The Golden Age of MTV Unplugged (SR20)
+ 392 spotify:user:cabal76:playlist:1LuIVke7KyRqIo4Mm6u8Xi NME's The 50 Greatest Live Albums of All Time (full)
+ 393 spotify:user:cabal76:playlist:7zEBwM7gOUfLUgBA7bimM8 NME's The 50 Greatest Live Albums of All Time (lite)
+ 394 spotify:user:cabal76:playlist:4g0EDArbi26dYcuNiVXTPg Los Angeles Weekly Top 20 Hair Metal Albums of All Time (mammoth)
+ 395 spotify:user:cabal76:playlist:1e90OCgOukdqXh7UVYSRGW Los Angeles Weekly Top 20 Hair Metal Albums of All Time (lite)
+ 396 spotify:user:cabal76:playlist:6E4NbPwusfHhahQ1GHtJej Uncut 50 Greatest American Punk LPs (full albums)
+ 397 spotify:user:cabal76:playlist:07oxiBnPIhNrAO1hmX4edu Uncut 50 Greatest American Punk LPs (3 tracks)
+ 398 spotify:user:cabal76:playlist:5Juy37wGYUtW7PqPhPlTde Music Radar A-Z of Ska
+ 399 spotify:user:cabal76:playlist:5UbL3rhjIdWLiz3UJaCilK MusicRadar's The 25 Best Basslines of All Time
+ 400 spotify:user:cabal76:playlist:3aDuTegtyWgoTEoMa9ziBj Gibson.com Top 50 Guitarists of All Time
+ 401 spotify:user:cabal76:playlist:5s2TEZEvL4ifPrelgKejds 100 Greatest Guitar Riffs (BBC2)
+ 402 spotify:user:cabal76:playlist:3VYcd7G30V92Bd5VpbGG9g Digital Dream Door's 100 Greatest Surf Rock Songs
+ 403 spotify:user:cabal76:playlist:7Ei2ad09JtKnenk2lbrA5x Paste 80 Best Workout Songs
+ 404 spotify:user:cabal76:playlist:0pUY1MRb0R0nDGNh7LtNWu Rockit Top 15 Italian Albums of 2016
+ 405 spotify:user:cabal76:playlist:4N4X2kfBOotWVwXB4je1Pu Rockit Top 50 Italian Songs of 2016
+ 406 spotify:user:cabal76:playlist:4dsK5RFpwlM9ANB7P9vj7w Muzikalia Top 40 Spanish Albums of 2016
+ 407 spotify:user:cabal76:playlist:2x8bXwHcMg4jTuqqpKqz8l Les Inrockuptibles Top 50 Albums of 2016
+ 408 spotify:user:cabal76:playlist:1etYtuggHdxtQRW3K6FJ1H Les Inrockuptibles Top 100 Songs of 2016
+ 409 spotify:user:cabal76:playlist:20HXNc5Gvv9e0h08l0y97t The Guardian Top 40 Albums of 2016
+ 410 spotify:user:cabal76:playlist:1qRmQHALPwU1IRT0WF3PtT Pitchfork Top 50 Albums of 2016
+ 411 spotify:user:cabal76:playlist:7AVzKrK227k2tov9vVdhoS Pitchfork Top 100 Songs of 2016
+ 412 spotify:user:cabal76:playlist:249SEVOF5xpnBZy6ESPko1 Wire Top 50 Albums of 2016
+ 413 spotify:user:cabal76:playlist:4p1jLVZNxy4ArucESFpdxN FACT Top 50 Albums of 2016
+ 414 spotify:user:cabal76:playlist:6s6A7f2KMBcDEzrTkeR6gs FACT Top 50 Songs of 2016
+ 415 spotify:user:cabal76:playlist:79PPeFedlV8bs5oBUSnlFi American Songwriter Top 50 Albums of 2016
+ 416 spotify:user:cabal76:playlist:5DS0r7F5y7cipmXNlcKglH American Songwriter Top 50 Songs of 2016
+ 417 spotify:user:cabal76:playlist:62Wr0q5sAMJECKdypu6A8s PopMatters Top 70 Albums of 2016
+ 418 spotify:user:cabal76:playlist:4qpsOM0I256YsGibeGUlRa PopMatters Top 80 Songs of 2016
+ 419 spotify:user:cabal76:playlist:1JS7OD7QCdiyXScM2dAzUG Rolling Stone Top 50 Albums of 2016
+ 420 spotify:user:cabal76:playlist:1iAF4WWSPLOFlho1YC5XRt Rolling Stone Top 50 Songs of 2016
+ 421 spotify:user:cabal76:playlist:6zgZD3dwsV0oPXSTShTzF5 NPR Top 50 Albums of 2016
+ 422 spotify:user:cabal76:playlist:4rUvZJRd4iRGd37PF8KMt6 NPR Top 100 Songs of 2016
+ 423 spotify:user:cabal76:playlist:3MiqokhHT7fveDcbSxgrtt NME Top 50 Albums of 2016
+ 424 spotify:user:cabal76:playlist:4jzAiEfgybNSMIY5vXRbEN NME Top 50 Songs of 2016
+ 425 spotify:user:cabal76:playlist:2e6a4HtZiBsxRZ3lYJDgPR Uncut Top 50 Albums of 2016
+ 426 spotify:user:cabal76:playlist:1EcZs1LwuP9GW7SPrujNIY Mojo Top 50 Albums of 2016
+ 427 spotify:user:cabal76:playlist:7DnBoSWLNbGWKvhtLVEIMa Rough Trade Top 100 Albums of 2016
+ 428 spotify:user:cabal76:playlist:13B2xgTNXORgtRRBVc0ME8 All-TIME 100 Songs
+ 429 spotify:user:cabal76:playlist:27LjEdIqUWJ67JKzcXplIf Rockit Top 50 Italian Albums of 2015
+ 430 spotify:user:cabal76:playlist:6NIwVTwPFT4AHx37nPAmEi Vicey Top 50 Songs of 2015
+ 431 spotify:user:cabal76:playlist:5j1Oi4jstyXpgaoUwXjcpV NME Top 50 Albums of 2015
+ 432 spotify:user:cabal76:playlist:4eWJPTtxLMz3fWXvIhRyiS Guardian Best 40 Albums of 2015
+ 433 spotify:user:cabal76:playlist:4eJMf2K3mQLmMFunG8AJvL Rockit Top 50 Italian Songs of 2015
+ 434 spotify:user:cabal76:playlist:1YWoQCeTE71Yqi8wISXbAm NPR Favorite 50 Albums of 2015
+ 435 spotify:user:cabal76:playlist:0lKPMkfgnYkhrDvq5uUOwj Pitchfork Top 50 Albums of 2015
+ 436 spotify:user:cabal76:playlist:7ybxh3WHpIbaatpuwFwPT9 Fact Top 50 Songs of 2015
+ 437 spotify:user:cabal76:playlist:6tpi1ZkWAiuul6Fb1sMR5A The Wire Top 50 Albums of 2015
+ 438 spotify:user:cabal76:playlist:32vy6wvqSnoiIcH2pdQLrS PopMatters Top 90 Songs of 2015
+ 439 spotify:user:cabal76:playlist:7eGVESHu4TPT5jGH2LjiOB Uncut Top 75 Albums of 2015
+ 440 spotify:user:cabal76:playlist:34uPpXR3SOe3WmcCOttZU5 Pitchfork Top 100 Songs of 2015
+ 441 spotify:user:cabal76:playlist:77oZnca4X5e4GuYWaFKGhA Mojo Top 50 Albums of 2015
+ 442 spotify:user:cabal76:playlist:32dvq33UhdKbjF1muzKoWC Rough Trade Top 100 Albums of 2015
+ 443 spotify:user:cabal76:playlist:5xbCJa4HLvVX2c9XAXaJMO Acclaimed Music Top 50 Albums of 2014 (full albums)
+ 444 spotify:user:cabal76:playlist:5MHEP1Dt50stsiphUkEzBK Acclaimed Music Top 50 Albums of 2014 (3 songs)
+ 445 spotify:user:cabal76:playlist:3fn4VsFVLWjK1wlHMzaheW Rockit Top 100 Italian Songs of 2014
+ 446 spotify:user:cabal76:playlist:0wKZ0IGt5sXpeaVxAjHQb0 AllMusic Top 50 Albums of 2014 (full albums)
+ 447 spotify:user:cabal76:playlist:0GlUWx3R55A2Ky5gwzvBoX AllMusic Top 50 Albums of 2014 (3 tracks)
+ 448 spotify:user:cabal76:playlist:5lXElN4xWIiG91qcEDOZ27 Rolling Stone Top 50 Songs of 2014
+ 449 spotify:user:cabal76:playlist:08q7gwhDyRxDkm9qRxb9D2 The Guardian Top 40 Albums of 2014 (full albums)
+ 450 spotify:user:cabal76:playlist:20QSS3fqf3pPU0iRbqz8JU The Guardian Top 40 Albums of 2014 (3 tracks)
+ 451 spotify:user:cabal76:playlist:4t9K6lVCBqIJMS3JaK2ym1 Pitchfork Top 50 Albums of 2014 (full albums)
+ 452 spotify:user:cabal76:playlist:2jGPYDLkHuHzYU0vUFGMdn Pitchfork Top 50 Albums of 2014 (3 tracks)
+ 453 spotify:user:cabal76:playlist:7DeRkTuIQBSThsjgdQms6s Les Inrockuptibles Top 100 Albums of 2014 (full albums)
+ 454 spotify:user:cabal76:playlist:6iWWCGOLpzKjZGtKSl4JFZ Les Inrockuptibles Top 100 Albums of 2014 (3 tracks)
+ 455 spotify:user:cabal76:playlist:7HJSspjbqOG2rBQRGaxeMj Les Inrockuptibles Top 60 Songs of 2014
+ 456 spotify:user:cabal76:playlist:3m154KRoOvpRZlNUxQkzuz Pitchfork Top 100 Tracks of 2014
+ 457 spotify:user:cabal76:playlist:0XVDrdv2oEqexyjgRx5bdd Fact Top 50 Albums of 2014 (full albums)
+ 458 spotify:user:cabal76:playlist:3NzAKPEJ7MQluf6l0l647V Fact Top 50 Albums of 2014 (3 tracks)
+ 459 spotify:user:cabal76:playlist:0sWgHUqlTAKGfmL6oaupmu Fact Top 50 Songs of 2014
+ 460 spotify:user:cabal76:playlist:5IXRgmXrXeEW3AzlPVOjG3 The Wire Top 50 Albums of 2014 (full albums)
+ 461 spotify:user:cabal76:playlist:1yktQ4kkCjLR1zDi3yeqjc The Wire Top 50 Albums of 2014 (3 tracks)
+ 462 spotify:user:cabal76:playlist:4j6nouPp2Dk9KkAAWOIBxW NPR 50 Favourite Albums of 2014 (full albums)
+ 463 spotify:user:cabal76:playlist:0aBSrlvlTxt4ooOG7iqO2Y NPR 50 Favourite Albums of 2014 (3 tracks)
+ 464 spotify:user:cabal76:playlist:3dJsLg8ENNUXDcTWhX238j Intro Top 50 Albums of 2014 (full albums)
+ 465 spotify:user:cabal76:playlist:415juB1olUojqYhac8mzmk Intro Top 50 Albums of 2014 (3 songs)
+ 466 spotify:user:cabal76:playlist:4mhI8eyhS9RvEpzPNiV4Dw Intro Top 50 Songs of 2014
+ 467 spotify:user:cabal76:playlist:3DVQhx5pPGxGJiiPnkeJcM Rolling Stone Top 50 Albums of 2014 (full albums)
+ 468 spotify:user:cabal76:playlist:0IX1jEoB23HUgZrShKZQMg Rolling Stone Top 50 Albums of 2014 (3 tracks)
+ 469 spotify:user:cabal76:playlist:2Yy495A5mzPhrwSXP9cfvo Uncut Top 75 Albums of 2014 (full albums)
+ 470 spotify:user:cabal76:playlist:40O8RTbBaKpsHh9LnDoqUN Uncut Top 75 Albums of 2014 (3 tracks)
+ 471 spotify:user:cabal76:playlist:5biqaFfC6XG5HW50YXaY0S NME Top 50 Songs of 2014
+ 472 spotify:user:cabal76:playlist:4rilodUks4Rh4r3HuCXU0I NME Top 50 Albums of 2014 (full albums)
+ 473 spotify:user:cabal76:playlist:4nphTRneEZd4FManMzIpC9 NME Top 50 Albums of 2014 (3 tracks)
+ 474 spotify:user:cabal76:playlist:4Tx6T3uEXkV0VlrxibfLFb Mojo Top 50 Albums of 2014 (full albums)
+ 475 spotify:user:cabal76:playlist:70jOxBeKlsaULiDzXvgQVD Mojo Top 50 Albums of 2014 (3 tracks)
+ 476 spotify:user:cabal76:playlist:4Qqx2y5bUpR97bBnPYBTXK Decibel Top 40 Albums of 2014 (full albums)
+ 477 spotify:user:cabal76:playlist:67rIO1uwlsZk4nNKT35J8N Decibel Top 40 Albums of 2014 (3 tracks)
+ 478 spotify:user:cabal76:playlist:7MYU4wr8xQdxURQFwFoV35 Rough Trade Top 100 Albums of 2014 (full albums)
+ 479 spotify:user:cabal76:playlist:2JMdpw5WhYXWZeIO2Lpr5Z Rough Trade Top 100 Albums of 2014 (3 tracks)
+ 480 spotify:user:cabal76:playlist:19GPPf2Sei69eVyJhuxOWB Pitchfork Top 100 Tracks of 2013
+ 481 spotify:user:cabal76:playlist:4VBbCLsWgozI8XIzrkjJYD Acclaimed Music Best 50 Albums of 2013 (full albums)
+ 482 spotify:user:cabal76:playlist:3azNUdPly5jZHQyqIp0BGN Acclaimed Music Best 50 Albums of 2013 (3 tracks)
+ 483 spotify:user:cabal76:playlist:0KQryaF8rEDUDePw681c0O Acclaimed Music Best 50 Songs of 2013
+ 484 spotify:user:cabal76:playlist:1gM3Qu57ZUDPjg107XohAP Rockit Top 100 Italian Songs of 2013
+ 485 spotify:user:cabal76:playlist:5Aos0uo6sBSgMsz8803rgh Call Me Giorgio - Moroder DJ setlist 2013
+ 486 spotify:user:cabal76:playlist:0aJ20ToW1Vt3e3fNZJtgCd Playground Los 40 mejores discos editados en España (full albums)
+ 487 spotify:user:cabal76:playlist:7xBhjHZXuxLTupOa8yx2J3 Playground Los 40 mejores discos editados en España (3 tracks)
+ 488 spotify:user:cabal76:playlist:3vSN83ONR0f4QKtbXcDA33 Nöjesguiden Top 20 Swedish Albums of 2013 (full albums)
+ 489 spotify:user:cabal76:playlist:5ZZuvBLAzY6GzjDMHi2iM3 Nöjesguiden Top 20 Swedish Albums of 2013 (3 tracks)
+ 490 spotify:user:cabal76:playlist:54Q4JrKdR9vAW0B6DYZ5Yy Blitz Top 20 Portuguese Albums of 2013 (full albums)
+ 491 spotify:user:cabal76:playlist:12M5HFuKKAABki9OOtBgos Blitz Top 20 Portuguese Albums of 2013 (3 tracks)
+ 492 spotify:user:cabal76:playlist:4Ea4M5ooMRgYm0giicnaRa Mixmag Best 100 Tunes of 2013
+ 493 spotify:user:cabal76:playlist:0InHwhwF2OAhWfPyZ39m0t Gilles Peterson All Winners 2013
+ 494 spotify:user:cabal76:playlist:1vxmVfKDE1bldefmtDYmsG Jazzman Les Chocs 2013 (albums)
+ 495 spotify:user:cabal76:playlist:5lPWt8TotFvtyG5awum97u Jazzman Les Chocs 2013 (3 tracks)
+ 496 spotify:user:cabal76:playlist:0mPrdN2qct5KjIB8sScxEm XLR8R 30 Best Releases of 2013 (full albums)
+ 497 spotify:user:cabal76:playlist:2PAScZOcVKZahjcSA7Bg6g XLR8R 30 Best Releases of 2013 (3 songs)
+ 498 spotify:user:cabal76:playlist:5D3cayhvg8ohpmTIHVysTF XLR8R Best 50 Tracks of 2013
+ 499 spotify:user:cabal76:playlist:7DxlsM14uaeL1ZU1gkRjTh Spin 50 Best Albums of 2013 (full albums)
+ 500 spotify:user:cabal76:playlist:1sGXi9EovpF7O51vacm70L Spin 50 Best Albums of 2013 (3 songs)
+ 501 spotify:user:cabal76:playlist:1oX86KEaXrNIbJaa6RBIQe Spin 50 Best Songs of 2013 
+ 502 spotify:user:cabal76:playlist:7tbaYw5POb6s3dmxkpCt7y The Quietus 100 Albums of 2013 (full albums)
+ 503 spotify:user:cabal76:playlist:37nDg547en4A1rTQp5ULyT The Quietus 100 Albums of 2013 (3 tracks)
+ 504 spotify:user:cabal76:playlist:6A1M7uZzETX43oiPVJ4yNL Guardian 40 Best Albums (full albums)
+ 505 spotify:user:cabal76:playlist:1Lb1HCYEoJqbzv18o3psJw Guardian 40 Best Albums of 2013 (3 tracks)
+ 506 spotify:user:cabal76:playlist:2VPGXlYymJ6FWOAth96fGW Decibel Top 40 Albums of 2013 (full albums)
+ 507 spotify:user:cabal76:playlist:5tgh8gk1rgOjbbjm63RAcE Kerrang! The Albums That Rocked 2013 (full albums)
+ 508 spotify:user:cabal76:playlist:4xtcUXthcl6dvRbNCQ0Q46 Kerrang! The Albums That Rocked 2013 (3 tracks)
+ 509 spotify:user:cabal76:playlist:2ymO87QQjBU3STMtNVvDWb Metal Hammer Top 50 Albums of 2013 (full albums)
+ 510 spotify:user:cabal76:playlist:3AiOqhzk9VXIHUn1zKzIRk Metal Hammer Top 50 Albums of 2013 (3 tracks)
+ 511 spotify:user:cabal76:playlist:6MSk6S1HfjfrL1VGcCltMw Pitchfork Top 50 Albums of 2013 (full albums)
+ 512 spotify:user:cabal76:playlist:7lfZ0B0H3zLtWFZvgvx7Kh Pitchfork Top 50 Albums of 2013 (3 tracks)
+ 513 spotify:user:cabal76:playlist:1prFod6QWJ97sGE2sofwCm MeHaceRuido mejores discos en español 2013 (full albums)
+ 514 spotify:user:cabal76:playlist:3HzEBgnm3prA18Pul2Jcrn MeHaceRuido mejores discos en español 2013 (3 tracks)
+ 515 spotify:user:cabal76:playlist:1KhPqavjGaPPXq9gdig7TD MeHaceRuido mejores canciones en español 2013
+ 516 spotify:user:cabal76:playlist:5MS7XKt5ZEndjBXsdH8HT6 Panamérika mejores discos en español 2013 (full albums)
+ 517 spotify:user:cabal76:playlist:4womU0FTmaajZbnKYbBUn2 Panamérika mejores discos en español 2013 (3 tracks)
+ 518 spotify:user:cabal76:playlist:4RyjNRQkC8vV3GYhv6GfBk Panamérika mejores sencillos de 2013
+ 519 spotify:user:cabal76:playlist:2XHQSeorq0WxuMZM9XjEg4 Ibero 90.9 Los Mejores Sencillos 2013
+ 520 spotify:user:cabal76:playlist:2SQRES6fJgUYtT8Mzz9bfr Les Inrocks World Jazz Chanson 2013 (full albums)
+ 521 spotify:user:cabal76:playlist:0u6POnZiGriFUB9y9I2adL Les Inrocks World Jazz Chanson 2013 (3 tracks)
+ 522 spotify:user:cabal76:playlist:1kZgy7hBfpcPlabkBl3hyx Les Inrocks 100 Meilleurs Albums de 2013 (full albums)
+ 523 spotify:user:cabal76:playlist:67bQcKgZHzuvX4h1RM8ZE7 Les Inrocks 100 Meilleurs Albums de 2013 (3 tracks)
+ 524 spotify:user:cabal76:playlist:2gNxUUwLfzS5Mov2MSXQ9b Les Inrocks 50 Chansons de 2013
+ 525 spotify:user:cabal76:playlist:3dcb7UJomM89b93VofWmBX The Wire Top 50 Albums of 2013 (full albums)
+ 526 spotify:user:cabal76:playlist:5HuGl4fXL4t1Xl6DIix2Xd The Wire Top 50 Albums of 2013 (3 tracks)
+ 527 spotify:user:cabal76:playlist:4zpcHfrwSPR1Bb6GHnb99u NPR Music 100 Favorite Songs of 2013
+ 528 spotify:user:cabal76:playlist:4Isc4WMEb5D941ZqiL3Q7e NPR Music 50 Favorite Albums of 2013 (full albums)
+ 529 spotify:user:cabal76:playlist:0Zr4FdktILGtC89f8s7Ixt NPR Music 50 Favorite Albums of 2013 (3 tracks)
+ 530 spotify:user:cabal76:playlist:3YRmExvx6NoQUcOJyHL6V4 BuzzFeed 13 Electronic Music Albums From 2013 That You Need To Hear (full albums)
+ 531 spotify:user:cabal76:playlist:5v74eD6iUxtOLn4N9IbPLi BuzzFeed 13 Electronic Music Albums From 2013 That You Need To Hear (3 tracks)
+ 532 spotify:user:cabal76:playlist:3ifXnS4KksF2dO9GpE7nJz Indiewire 15 Best Soundtracks of 2013 (full albums)
+ 533 spotify:user:cabal76:playlist:55nu7hJemq4KziiA0CGZSR Indiewire 15 Best Soundtracks of 2013 (3 tracks)
+ 534 spotify:user:cabal76:playlist:00pORAsTmzhGAQ7Td9mz7j Indiewire 15 Best Films Scores of 2013 (full albums)
+ 535 spotify:user:cabal76:playlist:2GwcrlrMJfZKOoQFwF1y8D Indiewire 15 Best Films Scores of 2013 (3 tracks)
+ 536 spotify:user:cabal76:playlist:3VX1owyjPfbNdw5qkthUCJ Paste The 50 Best Albums of 2013 (full albums)
+ 537 spotify:user:cabal76:playlist:4ICkoV70UcrOwSOyGmmKDT Paste The 50 Best Albums of 2013 (3 songs)
+ 538 spotify:user:cabal76:playlist:1fU9gczWIHih71ZOlTpNPj Paste The 50 Best Songs of 2013
+ 539 spotify:user:cabal76:playlist:2QRmKaf9oGCR0pEV8nUzyr NME 50 Best Albums of 2013 (full albums)
+ 540 spotify:user:cabal76:playlist:6rG3iSd31u1fzJ4gJ3BT0V NME 50 Best Albums of 2013 (3 tracks)
+ 541 spotify:user:cabal76:playlist:7jVDratst8rXlCF2v7LNLe NME 50 Best Tracks of 2013
+ 542 spotify:user:cabal76:playlist:6c2sl8tcZk3ijZMa03eW2t NME Top 15 EPs in 2013
+ 543 spotify:user:cabal76:playlist:2G2Wl3o9mMhzWoL4KCxoL9 Stereogum The 50 Best Albums of 2013 (full albums)
+ 544 spotify:user:cabal76:playlist:6gqCc3l8QOSmVSQdHhajDI Stereogum The 50 Best Albums of 2013 (3 tracks)
+ 545 spotify:user:cabal76:playlist:3eevyH3CvRXpQ6i9IsRJ7j Rolling Stone 50 Best Albums of 2013 (full albums)
+ 546 spotify:user:cabal76:playlist:3OT1OjaWqqLUSI3z0Ej9w9 Rolling Stone 50 Best Albums of 2013 (3 tracks)
+ 547 spotify:user:cabal76:playlist:4DryFGd6ohHMRGu8PJsZjE Rolling Stone 100 Best Songs of 2013
+ 548 spotify:user:cabal76:playlist:47eKFwIfohSlYuzwLk8nty PopMatters The 75 Best Songs of 2013
+ 549 spotify:user:cabal76:playlist:4qoTqIgOlW90gMpHN7Mb53 Uncut Top 80 Albums of 2013 (full albums)
+ 550 spotify:user:cabal76:playlist:6MC95NEuqSGqVr01zfSYDO Uncut Top 80 Albums of 2013 (3 tracks)
+ 551 spotify:user:cabal76:playlist:6fBKecdoqMmGwvqlgK7Nt5 Q 50 Albums of 2013 (full albums)
+ 552 spotify:user:cabal76:playlist:4VXOgD7YbHjMluQBGPQmVi Q 50 Albums of 2013 (3 tracks)
+ 553 spotify:user:cabal76:playlist:6jYW9CCDB1Oe8Bu76Gsina Zane Lowe 100 Hottest Records of 2013
+ 554 spotify:user:cabal76:playlist:3mWsDJObHuK94Ur9rBQrdn Amazon (US) Best Songs of 2013
+ 555 spotify:user:cabal76:playlist:6GlPH1ppgxb8GpIfXCHhpd Mojo Top 50 Albums of 2013 (full albums)
+ 556 spotify:user:cabal76:playlist:4fl1Fc8gcBr4EmjnEEYzgj Mojo Top 50 Albums of 2013 (3 tracks)
+ 557 spotify:user:cabal76:playlist:18IYoSlKjzen0Adtnrhu2d Jazzwise Top 20 New Releases 2013 (full albums)
+ 558 spotify:user:cabal76:playlist:7r46yylBYW8CxBm948QMw0 Jazzwise Top 20 New Releases 2013 (3 tracks)
+ 559 spotify:user:cabal76:playlist:3D0LoIWyHSSzD9Rxmic2CU Rough Trade Top 100 Albums of 2013 (full)
+ 560 spotify:user:cabal76:playlist:7vh36ph9bQk7r0zi1P0Y7f Rough Trade Top 100 Albums of 2013 (3 tracks)
+ 561 spotify:user:cabal76:playlist:5ghHPZqUWfxSEkdIGmw2NG Revolver Mag Top 20 Albums of 2013
+ 562 spotify:user:cabal76:playlist:2TKX9gI7BPEWaAY9tEN51n Renowned For Sound Best Albums of 2013 (3-track)
+ 563 spotify:user:cabal76:playlist:3MTCCtXTRrTTXAFBkYwqUj Pretty Much Amazing Albums of 2013
+ 564 spotify:user:cabal76:playlist:4P0WDVs0CJ8r416A4I6qLq Pretty Much Amazing Songs of 2013
+ 565 spotify:user:cabal76:playlist:5zjzJFaPcFBcmjMxSvMBGD Stereogum's 40 Best New Bands of 2011
+ 566 spotify:user:cabal76:playlist:3tvMhtOlC872pXG6lwRis4 Pitchfork Overlooked Records 2011 (lite)
+ 567 spotify:user:cabal76:playlist:3lPouP8rueigXKoQMmXNLD Pitchfork Overlooked Records 2011 (mammoth)
+ 568 spotify:user:cabal76:playlist:6QBIrKE7tbvjKVg8oBwd2c NPR's 25 Favorite Albums of 2011 (So Far) (mammoth)
+ 569 spotify:user:cabal76:playlist:1Nd1p3UYUbtCN6FTKaapx4 NPR's 25 Favorite Albums of 2011 (So Far) (lite)
+ 570 spotify:user:cabal76:playlist:08gIC9OiLDV6aTocczF6BE Stereogum's Top 20 Albums of 2011 (So Far) (mammoth)
+ 571 spotify:user:cabal76:playlist:7w83L48WKb0lAVFl7vwlB2 Stereogum's Top 20 Albums of 2011 (So Far) (lite)
+ 572 spotify:user:cabal76:playlist:15X67YWlcNLNkRZH2WUA7f The Spotirama Essentials 2011 - Top 50 Songs
+ 573 spotify:user:cabal76:playlist:0FFx337jUZSepJPvAIsLpJ The Spotirama Essentials 2011 - Top 50 Albums (mammoth)
+ 574 spotify:user:cabal76:playlist:7uj4zGG3JtUa62cxzZ3eES The Spotirama Essentials 2011 - Top 50 Albums (lite)
+ 575 spotify:user:cabal76:playlist:26aqcnMpLz7OfbeWMHZyif NYTimes' The Music They Made (artists who died in 2011)
+ 576 spotify:user:cabal76:playlist:7uCsRraOad4FBNuwOsyHzK Stereogum In Memoriam 2011 (bands we lost in 2011)
+ 577 spotify:user:cabal76:playlist:0VxWWcwA29Zdj8tGr9XxZb Spinner Best 50 Songs of 2011
+ 578 spotify:user:cabal76:playlist:2BWTsuXaymKM3JlplFTR1d Les Inrockuptibles Best 50 Albums of 2011 (mammoth)
+ 579 spotify:user:cabal76:playlist:5E24RLF1HqEnqO6ymADohn Les Inrockuptibles Best 50 Albums of 2011 (lite)
+ 580 spotify:user:cabal76:playlist:5sakk4JnPJzOfdKYAVgesz Les Inrockuptibles Best 50 Songs of 2011
+ 581 spotify:user:cabal76:playlist:3NvxXHTXpbMNhXOFzeWhnp NPR Best 100 Songs of 2011
+ 582 spotify:user:cabal76:playlist:5WbwsVrTk3R7d7i65Lbi5b Kerrang! Best 50 Albums of 2011 (mammoth)
+ 583 spotify:user:cabal76:playlist:22s1jJA6gmu9H0mc0IVvFK Kerrang! Best 50 Albums of 2011 (lite)
+ 584 spotify:user:cabal76:playlist:0vXcfyRnYbel4cmtPtpjDc Pitchfork Best 50 Albums of 2011 (mammoth)
+ 585 spotify:user:cabal76:playlist:7vSQdkkfWIksWGytJ3jfvD Pitchfork Best 50 Albums of 2011 (lite)
+ 586 spotify:user:cabal76:playlist:27UDcnIEX9OzNPSdofVIYr Guardian Best 50 Albums of 2011 (mammoth)
+ 587 spotify:user:cabal76:playlist:7B6r1UOt5yYmCVO7R6bIM7 Guardian Best 50 Albums of 2011 (lite)
+ 588 spotify:user:cabal76:playlist:1g2wulrlwyIYy6BjBbPirs Spin Best 50 Albums of 2011 (mammoth)
+ 589 spotify:user:cabal76:playlist:5RU5oWEhfawwgeqFouo52T Spin Best 50 Albums of 2011 (lite)
+ 590 spotify:user:cabal76:playlist:50ZIF66n8pHwcVSBPMsDHP Pitchfork Best 50 Songs of 2011
+ 591 spotify:user:cabal76:playlist:1xrfNeMSX9SIc9bsUHmzKz Intro Best 50 Albums of 2011 (mammoth)
+ 592 spotify:user:cabal76:playlist:6lZ74hwTtSgH2ZVL6YSDJq Intro Best 50 Albums of 2011 (lite)
+ 593 spotify:user:cabal76:playlist:07zUYjgqYCjSA7pkuZyPGu Intro Best 50 Songs of 2011
+ 594 spotify:user:cabal76:playlist:4w1lbdpeS602y3fVgVlb0n PopMatters Best 50 Songs of 2011
+ 595 spotify:user:cabal76:playlist:4XYndFiYuDheSscdfFpMEF Amazon.com Best 50 Albums of 2011 (mammoth)
+ 596 spotify:user:cabal76:playlist:1UEhw05UdYu5xNSVYCc1pJ Amazon.com Best 50 Albums of 2011 (lite)
+ 597 spotify:user:cabal76:playlist:2uChXAygMjob9PQDa90rSy Treble Best 50 Songs of 2011
+ 598 spotify:user:cabal76:playlist:1EV10ytED2UZZhGeZxiBUc Rolling Stone Best 50 Songs of 2011
+ 599 spotify:user:cabal76:playlist:1PcpjnKitlf2ly7Mr6dKjS Rolling Stone Best 50 Albums of 2011 (mammoth)
+ 600 spotify:user:cabal76:playlist:4cF9uLN21uzmNR518eZP62 Rolling Stone Best 50 Albums of 2011 (lite)
+ 601 spotify:user:cabal76:playlist:4nPre3oXGtZdFMbPsSGCWI NME Best 50 Albums of 2011 (mammoth)
+ 602 spotify:user:cabal76:playlist:5J3uY4SY5vOyNrkhp6uH2J NME Best 50 Albums of 2011 (lite)
+ 603 spotify:user:cabal76:playlist:2V1EjFNsRkermY3T3xUjlW NME Best 50 Songs of 2011
+ 604 spotify:user:cabal76:playlist:6ZSIPpQv4iU53DlLyrYm5X Stereogum Best 50 Albums of 2011 (mammoth)
+ 605 spotify:user:cabal76:playlist:1H9utvjMAdpSqLe92YthaW Stereogum Best 50 Albums of 2011 (lite)
+ 606 spotify:user:cabal76:playlist:4JsRpnCEBinnTCtcEI3714 Paste Best 50 Songs of 2011
+ 607 spotify:user:cabal76:playlist:2xIIe9NLg8nd22n0WyRHcB Mojo Best 50 Albums of 2011 (mammoth)
+ 608 spotify:user:cabal76:playlist:7aUDlOdf22bajHVsSkwO3s Mojo Best 50 Albums of 2011 (lite)
+ 609 spotify:user:cabal76:playlist:6aWBZ9glx0s4fJadCGLLzy Uncut Best 50 Albums of 2011 (mammoth)
+ 610 spotify:user:cabal76:playlist:0dDy4I4Boih4sz3NGoKxNW Uncut Best 50 Albums of 2011 (lite)
+ 611 spotify:user:cabal76:playlist:3RprgMoQgzS6JHqkzcWwg1 Q Best 50 Albums of 2011 (mammoth)
+ 612 spotify:user:cabal76:playlist:1fmwrI4xeXBcXxqY6FUuQW Q Best 50 Albums of 2011 (lite)
+ 613 spotify:user:cabal76:playlist:5iPePwGaArdejCsIj4Pp61 Paste Best 50 Albums of 2011 (mammoth)
+ 614 spotify:user:cabal76:playlist:3fBdgfc6op3aawnEmeDI3J Paste Best  50 Albums of 2011 (lite)
+ 615 spotify:user:cabal76:playlist:2RlvdYKiiPGNxPtjk5eX9H The Fly Best 50 Albums of 2011 (lite)
+ 616 spotify:user:cabal76:playlist:3KVARgbRhoQH825UwTMkT1 The Fly Best 50 Albums of 2011 (mammoth)
+ 617 spotify:user:cabal76:playlist:3w4ZHWLFTNA9wHGED3ymuc Acclaimed Music Top 50 Albums of 2010 (aggregated, graduated)
+ 618 spotify:user:cabal76:playlist:0rk8t26O9wqoVjlfeqkAfM Acclaimed Music Top 50 Albums of 2010 (aggregated, mammoth)
+ 619 spotify:user:cabal76:playlist:0y2cuiTHJ3rJUxn66dILnP Acclaimed Music Top 50 Songs of 2010 (aggregated)
+ 620 spotify:user:cabal76:playlist:6ZomqxY6cuYbdq5TlPq8fy Esquire Top 50 Song Lyrics of 2010
+ 621 spotify:user:cabal76:playlist:3KspLME6MXtrIxfcjTHTpB Rockit Top 100 Italian Songs of 2010
+ 622 spotify:user:cabal76:playlist:64VM7DVsFalLxQ19Wv0Onl BBC Gilles Peterson All Winners 2010
+ 623 spotify:user:cabal76:playlist:7KwnRNDXsZaRNwMZ7nmWZx Les Inrocks Top 100 Chansons 2010 (30 + 70)
+ 624 spotify:user:cabal76:playlist:7pirakVkndUttOot1pxR1h Les Inrocks 70 Chansons de 2010 à ne pas manquer
+ 625 spotify:user:cabal76:playlist:3ZvUXxjK1ioIhVHMyvIIop Les Inrocks Les 30 Meilleurs Chansons de 2010
+ 626 spotify:user:cabal76:playlist:51zXazG6f0x387EWae91fr Stereogum's In Memoriam 2010 (bands who disbanded)
+ 627 spotify:user:cabal76:playlist:6SB8x59JNlOyy3jmHjtgaH NYTimes' The Music They Made (artists who died in 2010)
+ 628 spotify:user:cabal76:playlist:0u2ovUrBnkQDjt90Vonb2J Paste The 50 Best Songs of 2010
+ 629 spotify:user:cabal76:playlist:1SmNq9wM2oafZhdPZnM1w1 Paste The 50 Best Albums of 2010 (graduated)
+ 630 spotify:user:cabal76:playlist:6VGOKUgNB9Z2wld4yO8gE7 Paste The 50 Best Albums of 2010 (mammoth)
+ 631 spotify:user:cabal76:playlist:7xrqmjAWD4sX5OXMIc4HYF Les Inrocks Les 50 Meilleurs Disques de 2010 (graduated)
+ 632 spotify:user:cabal76:playlist:2SmhOlaNklJ6JFOMhJJvZi Les Inrocks Les 50 Meilleurs Disques de 2010 (mammoth)
+ 633 spotify:user:cabal76:playlist:5s6wARCebaqDvbVaszADIj Pitchfork The Top 50 Albums of 2010 (graduated)
+ 634 spotify:user:cabal76:playlist:7u6zrfBwvRnVPlhusiepAg Pitchfork The Top 50 Albums of 2010 (mammoth)
+ 635 spotify:user:cabal76:playlist:63zvAkd4evECLDpEKCbqEf Spotify Top 50 Albums of 2010 (lite)
+ 636 spotify:user:cabal76:playlist:2M4zENWaQGRNBrHp3koyLV Spotify Top 50 Albums of 2010 (mammoth)
+ 637 spotify:user:cabal76:playlist:4xpXsls09FbpOWJOwib6al Spotify Top 50 Songs of 2010
+ 638 spotify:user:cabal76:playlist:1jCIW1CgrlFLaGl3sZbPYs Spin The 20 Best Songs of 2010
+ 639 spotify:user:cabal76:playlist:66zrVoLHWZt0xkAnh8Mda4 Spin The 40 Best Albums of 2010 (graduated)
+ 640 spotify:user:cabal76:playlist:4LnbaMBCZHHnkcrBahnaXO Spin The 40 Best Albums of 2010 (mammoth)
+ 641 spotify:user:cabal76:playlist:6M5AXZCz5RlA4sb7dHh2eZ Pitchfork Albums Honorable Mentions of 2010 (lite)
+ 642 spotify:user:cabal76:playlist:6OwZxmEjssxbzguZ5MKScF Pitchfork Albums Honorable Mentions of 2010 (mammoth)
+ 643 spotify:user:cabal76:playlist:3oKUZzfgEqIfCzkHfxRde3 Pitchfork Top 100 Tracks of 2010
+ 644 spotify:user:cabal76:playlist:2zDMdAWcjTYAJQ7R1RUPs4 BBC6 Shortlisted Top 100 Songs of the 2010
+ 645 spotify:user:cabal76:playlist:4ha0nXi3q4Ticgrj35miKZ Mojo Best 50 Albums of 2010 (graduated)
+ 646 spotify:user:cabal76:playlist:1NcmglQ9iIHc6fgiJgpbzi Mojo Best 50 Albums of 2010 (mammoth)
+ 647 spotify:user:cabal76:playlist:5FR7prteD6RP8boeGcowG3 Amazon US Best Songs of 2010
+ 648 spotify:user:cabal76:playlist:5RV8aB6QV0OdS2Aq1oHiuk Amazon US Best Albums of 2010 (graduated)
+ 649 spotify:user:cabal76:playlist:6pjAZ2wwlp4Omjerr1QWEl Amazon US Best Albums of 2010 (mammoth)
+ 650 spotify:user:cabal76:playlist:2Gr4kZ0gknr4UZdR1MtadP Rolling Stone Best Singles of 2010
+ 651 spotify:user:cabal76:playlist:4419Qe82Mga9UHLGTksmsE Rolling Stone Best Albums of 2010 (graduated)
+ 652 spotify:user:cabal76:playlist:2QvQYDxNabdwqVgasEqaUA Rolling Stone Best Albums of 2010 (mammoth)
+ 653 spotify:user:cabal76:playlist:09Zr5xoJMYAjQUoO2lApLl Stereogum Top 15 EPs of 2010 (lite)
+ 654 spotify:user:cabal76:playlist:3v9Qfn0Ix2WcvUPsQput7N Stereogum Top 15 EPs of 2010 (mammoth)
+ 655 spotify:user:cabal76:playlist:0YxpXWMRM5YpvFypeO6fAe Stereogum Top 50 Albums of 2010 (graduated)
+ 656 spotify:user:cabal76:playlist:6sERoysniOAWCnwfxzPoKG Stereogum Top 50 Albums of 2010 (mammoth)
+ 657 spotify:user:cabal76:playlist:6Lh5qFW1vHfisXr3bUddfY PopMatters The Best 60 Singles of 2010
+ 658 spotify:user:cabal76:playlist:0Dy0BcfXA0s3Sjbl4dUeoQ NPR 50 Favorite Albums of 2010 (mammoth)
+ 659 spotify:user:cabal76:playlist:2eHbYrCSfrfLSi3zrhtdgw NME Best 75 Albums of 2010 (graduated)
+ 660 spotify:user:cabal76:playlist:6bIwSl0FiVBXviXOVGBCqD NME Best 75 Albums of 2010 (mammoth)
+ 661 spotify:user:cabal76:playlist:18JosAFhaP3M4red6DYsDS NME Best 75 Tracks of 2010
+ 662 spotify:user:cabal76:playlist:7zBz2XMgKxMsiw5qvNfsmS Rough Trade Top 100 Albums of 2010 (graduated)
+ 663 spotify:user:cabal76:playlist:42eLB4t00Y0Fqa5TIO4c9k Rough Trade Top 100 Albums of 2010 (mammoth)
+ 664 spotify:user:cabal76:playlist:7CypPgnqHqAykLkyEpqxy9 Acclaimed Music 1968: Top 20 Songs
+ 665 spotify:user:cabal76:playlist:0Nb09z4Oi4CVtwtIarqyhE Acclaimed Music 1968: Top 20 Albums (lite)
+ 666 spotify:user:cabal76:playlist:1DHDgRdYfv6ve0WYhWwNUt Acclaimed Music 1968: Top 20 Albums (mammoth)
+ 667 spotify:user:cabal76:playlist:4z5KcT4yYaWcHoG6fevDaz Acclaimed Music 1967: Top 20 Songs
+ 668 spotify:user:cabal76:playlist:0VsmGrQksFCk7HqbryKOIQ Acclaimed Music 1967: Top 20 Albums (lite)
+ 669 spotify:user:cabal76:playlist:0EHjv4cmhLRdcRt79POacp Acclaimed Music 1967: Top 20 Albums (mammoth)
+ 670 spotify:user:cabal76:playlist:6niBLoJiG0BZqPGD8WNsya Acclaimed Music 1966: Top 20 Songs
+ 671 spotify:user:cabal76:playlist:1sEzzd2VULPsqlso1bF9Pn Acclaimed Music 1966: Top 20 Albums (lite)
+ 672 spotify:user:cabal76:playlist:1XqaMxbXoaZPUytCC6syN6 Acclaimed Music 1966: Top 20 Albums (mammoth)
+ 673 spotify:user:cabal76:playlist:4qKCbdSj9sRMJ1M3BFh9ZV Acclaimed Music 1965: Top 20 Songs
+ 674 spotify:user:cabal76:playlist:743SZIv4X2xsLuLtmDDjNI Acclaimed Music 1965: Top 20 Albums (lite)
+ 675 spotify:user:cabal76:playlist:4Qy7RGRWswXIi0UZHwQKEK Acclaimed Music 1965: Top 20 Albums (mammoth)
+ 676 spotify:user:cabal76:playlist:3gCOJdUAPqqyAorz5Lpecd Acclaimed Music 1964: Top 20 Songs
+ 677 spotify:user:cabal76:playlist:6wSzDFdvZSreMJJkmdK06W Acclaimed Music 1964: Top 20 Albums (lite)
+ 678 spotify:user:cabal76:playlist:5cGYC4oKF2V1ofnXAqVv47 Acclaimed Music 1964: Top 20 Albums (mammoth)
+ 679 spotify:user:cabal76:playlist:3r2HdPK4Tl2vnq2w2pRwpd Acclaimed Music 1963: Top 20 Songs
+ 680 spotify:user:cabal76:playlist:7vbjrEfYDPjDdqEH1UEVm1 Acclaimed Music 1963: Top 20 Albums (lite)
+ 681 spotify:user:cabal76:playlist:6wVBGUgKvdxzE9vEtvYl7i Acclaimed Music 1963: Top 20 Albums (mammoth)
+ 682 spotify:user:cabal76:playlist:67jqLBMH4iXl624Z1LFBH4 Acclaimed Music 1962: Top 20 Songs
+ 683 spotify:user:cabal76:playlist:7rGqZXlys2SQ8JzJFbjFCW Acclaimed Music 1962: Top 20 Albums (lite)
+ 684 spotify:user:cabal76:playlist:0kvJz6iijBFYSiYP9IJQig Acclaimed Music 1962: Top 20 Albums (mammoth)
+ 685 spotify:user:cabal76:playlist:1P0BKLWnt9HyW27hbhv6At Acclaimed Music 1961: Top 20 Songs
+ 686 spotify:user:cabal76:playlist:2GSQteWB8g0u0dw2V0E5xw Acclaimed Music 1961: Top 20 Albums (lite)
+ 687 spotify:user:cabal76:playlist:79mIHyEVcmlf54T1DzxLY6 Acclaimed Music 1961: Top 20 Albums (mammoth)
+ 688 spotify:user:cabal76:playlist:7MxZETWBr4R8ioy0tqlX7h Acclaimed Music 1960: Top 20 Songs
+ 689 spotify:user:cabal76:playlist:02GYaTjDiXd2F2C205Kt6U Acclaimed Music 1960: Top 20 Albums (lite)
+ 690 spotify:user:cabal76:playlist:7xzzIHaG2mRDOHSqHTCtIk Acclaimed Music 1960: Top 20 Albums (mammoth)
+ 691 spotify:user:cabal76:playlist:3OS4y95MFOpClCAZVLhh4Q Acclaimed Music 1950s: Top 20 Songs
+ 692 spotify:user:cabal76:playlist:5kRVDpRpsKqMoL3TrnbHg8 Acclaimed Music 1950s: Top 20 Albums (lite)
+ 693 spotify:user:cabal76:playlist:2l6MbqCrXRTqtWnzFddiJP Acclaimed Music 1950s: Top 20 Albums (mammoth)
+ 694 spotify:user:cabal76:playlist:2LTsSHe8x4aC1eH4hJkKkS Acclaimed Music 1940s: Top 20 Songs
+ 695 spotify:user:cabal76:playlist:3TCWfsJzKwHJlqfWaB39AT Acclaimed Music 1930s: Top 20 Songs
+ 696 spotify:user:cabal76:playlist:3rY6aXeI9fydJKToPSs4Oe Acclaimed Music 1920s: Top 20 Songs
+ 697 spotify:user:cabal76:playlist:3bpfGPs0FWZzsQsEeklO9Q The 60 Best Albums of the 1960s (Paste, 2012, 3-track)
+ 698 spotify:user:cabal76:playlist:3WWeSCKfRZwzrCbOyl9Q93 The 60 Best Albums of the 1960s (Paste, 2012, full albums)
+ 699 spotify:user:cabal76:playlist:05Y8vJFAgvYYfmLxwH000Y Treble Top 200 Songs of the '70s
+ 700 spotify:user:cabal76:playlist:6xECQ7ubhJpLt0h1gxpGSx Treble The Top 200 Songs of the 1980s
+ 701 spotify:user:cabal76:playlist:6dOn1r1m4ml0Pq2iGKNFdX The 100 Greatest Songs of the 1980s (Absolute Radio 80s, 2014)
+ 702 spotify:user:cabal76:playlist:1yXxwEA8IcTa6OyVoLKKih NME 50 Best Albums of the Decade So Far (full albums)
+ 703 spotify:user:cabal76:playlist:0pKvc4motzPbPRNKCY2W0Z NME 50 Best Albums of the Decade So Far (3 tracks)
+ 704 spotify:user:cabal76:playlist:5Fk4IMaq82du8IpeaskrTo NME 50 Best Tracks of the Decade So Far
+ 705 spotify:user:cabal76:playlist:0C4pa2ihxNxWvHCJjlNEsD 35 Best Rock Albums of the 1990s (SentireAscoltare, full albums)
+ 706 spotify:user:cabal76:playlist:6z1MfhWaRiDGG9pwjDPWw8 35 Best Rock Albums of the 1990s (SentireAscoltare, 3 tracks)
+ 707 spotify:user:cabal76:playlist:4ImIjf8a2zxYvwlBxzM1m0 Treble The Top 150 Singles of the 00s
+ 708 spotify:user:cabal76:playlist:0n1mYIse3Tp3BZtWLhYdty Reflektor: The Matrix
+ 709 spotify:user:cabal76:playlist:0RCCGEdXGX06xZvq0oP0KN B-Monkeys - The Complete Collection of Arctic Monkeys B-Sides
+ 710 spotify:user:cabal76:playlist:34q0A0D1XnvLdu3v4WDJXC The Burt Bacharach Spotibook
+ 711 spotify:user:cabal76:playlist:6Ft4nQqNKHFxCUlSAc41cB Paste The 24 Best David Bowie Songs 
+ 712 spotify:user:cabal76:playlist:3DLmePT6GblyBmZkQi4eEK Paste The 24 Best David Bowie Songs (covers)
+ 713 spotify:user:cabal76:playlist:7bonutmYR9eDwcNGUp55vS Raw Bowie
+ 714 spotify:user:cabal76:playlist:7yCasRM15CKmkNXAyqlo87 The Cure Royal Albert Hall 2014 Setlist
+ 715 spotify:user:cabal76:playlist:14pabn9yI6pKha7Q2YKYKi Mark Lanegan Collaborations
+ 716 spotify:user:cabal76:playlist:09kbpAJYVyTuJW3Gfoo7sv There's Something About Mark
+ 717 spotify:user:cabal76:playlist:13E5znSZH7hEiJ5WcqxplK The 50 Greatest Led Zeppelin Tracks of All Time (Mojo)
+ 718 spotify:user:cabal76:playlist:2vNGKp4HKR6QgSyFQauX90 Top 20 John Lennon Songs (crowdsourced)
+ 719 spotify:user:cabal76:playlist:0sPqx5VGM4Ir9d0oeTJrFM The John Lennon 69
+ 720 spotify:user:cabal76:playlist:1mpF065nI3z1vZs60KCiXb The Madonna UK Top 40 Collection
+ 721 spotify:user:cabal76:playlist:0O1qGM2aKQKuefMhMqxtMG All 102 Nirvana Songs Ranked (Rolling Stone, 2014)
+ 722 spotify:user:cabal76:playlist:154fpkYUuRzzIJYCYJlI1A Vedderology (an Eddie Vedder extra-PJ collection)
+ 723 spotify:user:cabal76:playlist:0nXQiqXhNoWuGbxVTXNXfp Bittersweet Distractors - A Collection of Rare Radiohead Songs 1992-2005
+ 724 spotify:user:cabal76:playlist:1oJhgbMjvFek6ONmQTPzh0 Top 20 Lou Reed Songs (crowdsourced)
+ 725 spotify:user:cabal76:playlist:0ifEi1UGqpz0uJdnBAvn9w The Last R.E.M. Waltz (lite, 23-song version)
+ 726 spotify:user:cabal76:playlist:06AJ6fjt7HSOG1I3FoAW2M The Last R.E.M. Waltz (A 69-song concert)
+ 727 spotify:user:cabal76:playlist:5JSKR8zFoR89pwFJYnTxOr The Replacements 2013 Comeback Setlist
+ 728 spotify:user:cabal76:playlist:5MKp7kiD9h6inRzFKP2QCk 100 Greatest Bruce Springsteen Songs (Rolling Stone)
+ 729 spotify:user:cabal76:playlist:16acjqDWP5Vqnm96JTHRpQ Eddie's Aussie Jukebox
+ 730 spotify:user:cabal76:playlist:2INfbMbThxoQO05saBsjSg FACT The 50 Best Pharrell Tracks
+ 731 spotify:user:cabal76:playlist:3rWMlJJh1btEGZ5MMz7zmC 100 Greatest Neil Young Songs (Rolling Stone)
+ 732 spotify:user:cabal76:playlist:5ZPH2n5fe0qo0CYN5y8lhP Kurt Cobain 50 Favorite Albums (full albums)
+ 733 spotify:user:cabal76:playlist:4bCOomcIEp3Z6dM5glOfxT Kurt Cobain 50 Favorite Albums (3 tracks)
+ 734 spotify:user:cabal76:playlist:72a3ot3BGz5f4UMKAxQRDO Thurston Moore's 38 Favourite Songs of All Time
+ 735 spotify:user:cabal76:playlist:7kpM0y2rpH2FqkFmnoekpu Dead Air Spotify (mammoth)
+ 736 spotify:user:cabal76:playlist:4dwGURPQtgsyZ0SWsTpAIW Dead Air Spotify (vol.3)
+ 737 spotify:user:cabal76:playlist:7pYwsOfz9SsOdQ72RsqlUW Dead Air Spotify (vol.2)
+ 738 spotify:user:cabal76:playlist:76AtIiiJYilsvZ7IgvJG04 Dead Air Spotify (vol.1)
+ 739 spotify:user:cabal76:playlist:4uAcHa1Zd60JbApFpoK9qW Radiohead Office Chart (2011.02.11)
+ 740 spotify:user:cabal76:playlist:32Tv3O53lp0M1Ru2C1gdbx Radiohead Office Chart (2011.01.12)
+ 741 spotify:user:cabal76:playlist:4yAu2nmREERHR53P82349j Radiohead Office Chart (2010.11.20)
+ 742 spotify:user:cabal76:playlist:6yEmsr85l0NqE6bQZbRQc8 Radiohead Office Chart (2010.11.04)
+ 743 spotify:user:cabal76:playlist:7E1o9NAy0oj7C1cwkqD2t4 Radiohead Office Chart (2010.10.09)
+ 744 spotify:user:cabal76:playlist:6Y1zFEXqUsAg9L7YnqapQD Radiohead Office Chart (2010.06.25)
+ 745 spotify:user:cabal76:playlist:01W6ZfAqfcYl3pakfAw7Xo Radiohead Office Chart (2010.06.19)
+ 746 spotify:user:cabal76:playlist:0KU91yRIP0VsR1eozjhuCM Radiohead Office Chart (2010.05.24)
+ 747 spotify:user:cabal76:playlist:1mvL0wDLqlTsQkrvXymLdM Radiohead Office Chart (2010.05.06)
+ 748 spotify:user:cabal76:playlist:7IECDhbz4kCx1Juf7VNKk8 Radiohead Office Chart (2010.03.15)
+ 749 spotify:user:cabal76:playlist:0cebVGO8yQmwRGZRUqAI1T Radiohead Office Chart (2010.03.03)
+ 750 spotify:user:cabal76:playlist:6bqb0BUsYgVoCChpx4SCsP Radiohead Office Chart (2010.02.09)
+ 751 spotify:user:cabal76:playlist:432yEe17Vgfm4E7XI43fV5 Bret Easton Ellis - The Mammoth
+ 752 spotify:user:cabal76:playlist:7LO1vICGUaX3qQ26hGfcX9 Bret Easton Ellis - Imperial Bedrooms
+ 753 spotify:user:cabal76:playlist:5NwblobnnaFL7kOkrgCrza Bret Easton Ellis - Lunar Park
+ 754 spotify:user:cabal76:playlist:3Uz3NTmiiv6veBiduvlyQ8 Bret Easton Ellis - Glamorama
+ 755 spotify:user:cabal76:playlist:3Ng9jJVWPefspn78B895Ec Bret Easton Ellis - The Informers
+ 756 spotify:user:cabal76:playlist:2Jz5MLE4yPHN0fgyKztnmv Bret Easton Ellis - American Psycho
+ 757 spotify:user:cabal76:playlist:3xdChwAIsGIsP1KOOxZcju Bret Easton Ellis - The Rules of Attraction
+ 758 spotify:user:cabal76:playlist:0sVlu81tf5VkgMv14hyIeN Bret Easton Ellis - Less Than Zero
+ 759 spotify:user:cabal76:playlist:63CMy0Jopn9740V5LJy8fE Charlotte Gainsbourg's Lullaby (from Wired)
+ 760 spotify:user:cabal76:playlist:2NGkqDqwgIljl1rhaThPwP Arcade Fire Reflektor Tour Complete Setlist
+ 761 spotify:user:cabal76:playlist:4T3D2w3Sn5hh9Ny4vMzL0I U2 ELEVATION Tour Setlist
+ 762 spotify:user:cabal76:playlist:1jLnRwZ7rKHnZ4pG9usSjI U2 POPMART Tour Setlist
+ 763 spotify:user:cabal76:playlist:2WReET0hTF1KokdzZhLFj8 U2 ZOOROPA/ZOOMERANG Tour Setlist
+ 764 spotify:user:cabal76:playlist:2WHP2V0hpE2VfyaZCvNBo7 U2 ZOO TV Tour Setlist
+ 765 spotify:user:cabal76:playlist:7hjm7zM7da1WDZaiiMCjDz U2 LOVETOWN Tour Setlist
+ 766 spotify:user:cabal76:playlist:2ITOwCv7BjgA81g2pbXgGQ U2 THE JOSHUA TREE Tour Setlist
+ 767 spotify:user:cabal76:playlist:3TGAagNGXMb70yre2JV2f8 U2 THE UNFORGETTABLE FIRE Tour Setlist
+ 768 spotify:user:cabal76:playlist:3UCjsNHHObPabDopFwt86J U2 WAR Tour Setlist
+ 769 spotify:user:cabal76:playlist:40uOONJaIQWH7eTIv9DdBS U2 OCTOBER Tour Setlist
+ 770 spotify:user:cabal76:playlist:3JNArA5HjyR38D7KmRaf4b U2 BOY Tour Setlist
+ 771 spotify:user:cabal76:playlist:0aazGlKiod5LoY1RlmTkbd ATP 2010 curated by Pavement
+ 772 spotify:user:cabal76:playlist:6WvLzfQDESzXxD3AseeDao ATP 2010 curated by Matt Groening
+ 773 spotify:user:cabal76:playlist:6jQ2UvsPLJMCoYxuEZ87jw The Bowlie Weekender Compilation 1 (1999)
+ 774 spotify:user:cabal76:playlist:48yUaCxK8HWmNvlvaYCWTh The Sound of Coachella 2014
+ 775 spotify:user:cabal76:playlist:1iO1BTJRsUJVyOi18pNTPE Coachella 2012 - The 69
+ 776 spotify:user:cabal76:playlist:6ePZOF8qwWqBMuhFoMVAmo Coachella 2012 - all days (lite)
+ 777 spotify:user:cabal76:playlist:3ZPSfeWYTIAiDLywj9fQl7 Coachella 2012 - all days (medium)
+ 778 spotify:user:cabal76:playlist:0eBKtPrICBpqMZ2rautb4B Coachella 2012 - day 3 (lite)
+ 779 spotify:user:cabal76:playlist:1rsOjRlePWKKiZAQEWP5Em Coachella 2012 - day 3 (medium)
+ 780 spotify:user:cabal76:playlist:2haNUjOuToUaHM1kbY8tJx Coachella 2012 - day 2 (lite)
+ 781 spotify:user:cabal76:playlist:6Uov4OTfre9zQ6c8bz9R3s Coachella 2012 - day 2 (medium)
+ 782 spotify:user:cabal76:playlist:4diUJyAOrp2PIuSRKZwtZj Coachella 2012 - day 1 (lite)
+ 783 spotify:user:cabal76:playlist:4D61z7OitIw0TmSVYgRKmA Coachella 2012 - day 1 (medium)
+ 784 spotify:user:cabal76:playlist:1KqsEfvUA1dv5Bo6etOrWr Coachella 2011 (day 1 - graduated)
+ 785 spotify:user:cabal76:playlist:6WEy2Q81dTaIdMhfaLQH5N Coachella 2011 (day 3 - graduated)
+ 786 spotify:user:cabal76:playlist:0SGRz7vF5cs2LwpVj0sdRC Coachella 2011 (day 2 - graduated)
+ 787 spotify:user:cabal76:playlist:0AA4xK86FQQFVz2YtqEhtN Coachella 2011 (strong)
+ 788 spotify:user:cabal76:playlist:5RS31LTHYdbxEdTsXvSl1g Coachella 2011 (lite)
+ 789 spotify:user:cabal76:playlist:4QWD9pPs6H8KadVXOjZtF3 Coachella 2010 on Spotify
+ 790 spotify:user:cabal76:playlist:3hwAJIeuaNjsHpC5Y9INd0 London 2012 Olympics Playlist
+ 791 spotify:user:cabal76:playlist:7g7Qx1yhal2B39Scy0Exs8 Glastonbury 2016 - The Poster Playlist
+ 792 spotify:user:cabal76:playlist:0K49NRNaqZdMRQOaHgumRD The Sound of Glastonbury 2014
+ 793 spotify:user:cabal76:playlist:3NOQNEtn8wD4I9ADpbr9Cl The Sound of Green Man 2014
+ 794 spotify:user:cabal76:playlist:6RgBwG35mbYV9iGtyCkEIU Pitchfork Music Festival Paris 2013
+ 795 spotify:user:cabal76:playlist:2Wuf60RdsT1MLhjDIaVvgX Primavera Sound 2014
+ 796 spotify:user:cabal76:playlist:4PBgK7TS9lyaLicOJHeIQu Primavera Sound 2011
+ 797 spotify:user:cabal76:playlist:7I3TEW3uw1G5EXHE4l7zDj Primavera Sound 2010
+ 798 spotify:user:cabal76:playlist:5Ranzh4GuBaGB3g328gdcJ The Big Spotirama Guide To Rock En Seine 2013
+ 799 spotify:user:cabal76:playlist:4udae6V2ExmjSmPYWYXSU6 Super Bock Super Rock 2011 (29 songs)
+ 800 spotify:user:cabal76:playlist:4rBq0OyQGbxqHuKOJV4SJF Reconstructing Woodstock '69
+ 801 spotify:user:cabal76:playlist:1RJEoPt79yM9lrQKG5jp0k The 100 Greatest Horror Soundtracks (Fact, 2014, lite)
+ 802 spotify:user:cabal76:playlist:5kqN4k7gIfRqgBXLRCRUWm The 100 Greatest Horror Soundtracks (Fact, 2014, full albums)
+ 803 spotify:user:cabal76:playlist:60S542dO09tYU5piVx6Qy9 The Wes Anderson Spotipedia
+ 804 spotify:user:cabal76:playlist:63EyLn3rJszjJHfo3yNtuO Top 100 Songs in American Cinema
+ 805 spotify:user:cabal76:playlist:4hNTMOrW1Y2sfxUPQzETEq 90m Wes Anderson
+ 806 spotify:user:cabal76:playlist:2Sf35vetxxXsM4NQDsYzzJ The James Bond Collection
+ 807 spotify:user:cabal76:playlist:3l74IqgnDdZ22YHpN9kmaX The Imperial Williams (a tribute to John Williams 80th birthday)
+ 808 spotify:user:cabal76:playlist:14nJwtnaOkKr5vzepwVNH0 Time's The 25 Best Movie Soundtracks (lite)
+ 809 spotify:user:cabal76:playlist:5LzlzOicwudHfVSHRYJsKp Time's The 25 Best Movie Soundtracks (mammoth)
+ 810 spotify:user:cabal76:playlist:6OnJhDWhgmLgPqvbyPJHUS Oscars! (all Best Original Songs from 1934 to 2013)
+ 811 spotify:user:cabal76:playlist:2L0zW3H0BHYtTkvM96SREU Sundance Full Soundtracks
+ 812 spotify:user:cabal76:playlist:6I1hb3ykqKJtknV5NAWcTH 105 Sundance Boulevard (105 songs from movies awarded at Sundance Film Festival)
+ 813 spotify:user:cabal76:playlist:7aODg5ZeSrqWRYhn4UCjNm The Greatest Indie Soundtrack of the World (mammoth)
+ 814 spotify:user:cabal76:playlist:2h4myK47adWBPkA3U70uTj The Greatest Indie Soundtrack of the World (lite)
+ 815 spotify:user:cabal76:playlist:1AjJ1BFrVWm4CPaOQuZH3q The Greatest Indie Soundtrack of the World (regular)
+ 816 spotify:user:cabal76:playlist:1MU9vLrESkDxptJt0wES0E The Music of Breaking Bad (complete)
+ 817 spotify:user:cabal76:playlist:100LJbQdLaBTuTQz3rLFoo Breaking Bad - Season 1
+ 818 spotify:user:cabal76:playlist:40x29AHutiJhhhQBun3Gbe Breaking Bad - Season 2
+ 819 spotify:user:cabal76:playlist:5bHJ8zZsl2m0ehM3eBYACo Breaking Bad - Season 3
+ 820 spotify:user:cabal76:playlist:1f91XxqPbDhhcXK5eaHgpr Breaking Bad - Season 4
+ 821 spotify:user:cabal76:playlist:7iUN3cz9SMcTfZ0iVeiohB Breaking Bad - Season 5
+ 822 spotify:user:cabal76:playlist:7dKmZCMf0kgKrd0cLWEXHq Breaking Bad Original Soundtracks
+ 823 spotify:user:cabal76:playlist:2m68gNMyUL0sdanqgyz69p The Music of Life on Mars (complete)
+ 824 spotify:user:cabal76:playlist:74QzNxEVFIDXjyZJtb0CNJ The Music of Mad Men (complete)
+ 825 spotify:user:cabal76:playlist:2UUZDc9hvPy4oP4oJ3hrmu Mad Men - Season 4
+ 826 spotify:user:cabal76:playlist:5PycOHWijNR4OlYmYAqxMY Mad Men - Season 3
+ 827 spotify:user:cabal76:playlist:6dCThDD2qToGpCXTboYTYh Mad Men - Season 2
+ 828 spotify:user:cabal76:playlist:6b19dEjJevCPgZa3qjK32f Mad Men - Season 1
+ 829 spotify:user:cabal76:playlist:6cEiAbr8mUYLy1qpFCrqDK The O.C. - Season 1
+ 830 spotify:user:cabal76:playlist:53e4xOtoU6L0FuSnrcNZmJ The O.C. - Season 2
+ 831 spotify:user:cabal76:playlist:7567VYnf6bZIjUdc8RXPKS The Music of Scrubs (complete)
+ 832 spotify:user:cabal76:playlist:1VF7rE9iOX1QNXAMDDOwW7 Scrubs - Season 3
+ 833 spotify:user:cabal76:playlist:1vrshPbftI4vZlrCxANkyo Scrubs - Season 2
+ 834 spotify:user:cabal76:playlist:2RwPNxrEIToypWZsCiBAdZ Scrubs - Season 1
+ 835 spotify:user:cabal76:playlist:3vgL8l7VNyzQTUtBuZ9DyI The Music of Sons of Anarchy (complete)
+ 836 spotify:user:cabal76:playlist:2nfMM4xsg1xk4Xx1xf5s1p Sons of Anarchy - Season 6
+ 837 spotify:user:cabal76:playlist:3DIcZcLVTrBUCXXOheiFmQ Sons of Anarchy - Season 5
+ 838 spotify:user:cabal76:playlist:52MIAUHyKqbAtfdYlcx1my Sons of Anarchy - Season 4
+ 839 spotify:user:cabal76:playlist:3l7jbH5lPmFkmUuITrRRWc Sons of Anarchy - Season 3
+ 840 spotify:user:cabal76:playlist:1kflursyN2VzgUU6zhJGdG Sons of Anarchy - Season 2
+ 841 spotify:user:cabal76:playlist:29XMIhfNhLBK5PBHXruRpm Sons of Anarchy - Season 1
+ 842 spotify:user:cabal76:playlist:5QfkhgkzMTETHYaSYrYWOH The Music of True Detective
+ 843 spotify:user:cabal76:playlist:3GFHczWrzOg31nAf2cuKqb Rock Band 3 soundtrack
+ 844 spotify:user:cabal76:playlist:4uIvtat9AewfjgmPywbRT3 Flavorwire's The 30 Best Kiss-Offs in Musical History
+ 845 spotify:user:cabal76:playlist:1l4y3sZ95M2m2B5dTGDCu3 Complex The 25 Greatest "Slutwave" Songs of All Time
+ 846 spotify:user:cabal76:playlist:3iUWzlQ9YfN0vu7GAZR7WX The Real Songs of the Years
+ 847 spotify:user:cabal76:playlist:385NuZx5RH5HWDfvlMPSeT AOL Radio's Halloween Music Top 100
+ 848 spotify:user:cabal76:playlist:6V3bn1jzYZ9hKFV7E65mVo Vanity Fair's New York Fashion Week Playlist
+ 849 spotify:user:cabal76:playlist:2QY0hJe4d6Z89S5pYskD3r The iPod Playlist (songs featured in Apple iPod commercials)
+ 850 spotify:user:cabal76:playlist:6f8HKcf3O9QwoGtywk5yn5 Walk of Fame
+ 851 spotify:user:cabal76:playlist:71ZCkwxIyHkClY7PswC2bP Children of Morricone - A 69-song playlist influenced by the Spaghetti Maestro
+ 852 spotify:user:cabal76:playlist:1QklqIagOEnnntf4vtFcqJ Pono Vox
+ 853 spotify:user:cabal76:playlist:53ZyiWAE67df6cclkR7zcw Time Out Los Angeles' 100 Greatest Songs For an Epic Party
+ 854 spotify:user:cabal76:playlist:0yJvlocbBuYKzOyXsXTklA Les Inrocks' 50 chansons pour faire le sexe
+ 855 spotify:user:cabal76:playlist:3trdcAR7muKr1S2iX7zJGL United Capitals of Europe
+ 856 spotify:user:cabal76:playlist:4y4UucRZUbQkroA56XKOOn A song for Valentine
+ 857 spotify:user:cabal76:playlist:0c37GisOXaZm6wxEF2yyAT The Incredible Shrinking Tape
+ 858 spotify:user:cabal76:playlist:4RV4bQ3Oq4KOIqHzagvli0 L.A. Burnout 1 & 2
+ 859 spotify:user:cabal76:playlist:3pDFPP17qnfGBCmXQLrhxz The Greater Manchester (50 years of mancunian music by 50 artists in 50 songs)
+ 860 spotify:user:cabal76:playlist:1WyPzpuIJe57lp5HGquAZb Pride of Manchester - History of Manchester Music (The 69)
+ 861 spotify:user:cabal76:playlist:75Zwx0jdvdXdwz7UJDQmdN Pride of Manchester - History of Manchester Music (The Mammoth)
+ 862 spotify:user:cabal76:playlist:2E1zbqm5TOsHICxidf2eIc The Age Top 50 Australian Albums Ever (lite)
+ 863 spotify:user:cabal76:playlist:7bR6a5FOseIKTBEpWpj1qA The Age Top 50 Australian Albums Ever (graduated)
+ 864 spotify:user:cabal76:playlist:30zVAI1kGM2ImPayw1FS2F The Age Top 50 Australian Albums Ever (mammoth)
+ 865 spotify:user:cabal76:playlist:2UMlhUnckNGmxO0jUgKpAb 100op1 - The 100 Greatest Belgian Songs of All Time (2006-2014)
+ 866 spotify:user:cabal76:playlist:4u2agNM4CCEAS1xgvGkYnl 100 Greatest Brazilian Songs (Top Songs)
+ 867 spotify:user:cabal76:playlist:1YZIg1BKEDXtVUd74mxfYH 100 Best Canadian Songs Ever (CBC Radio, 2014)
+ 868 spotify:user:cabal76:playlist:45mezImAYTDVZPVeZdbTfQ France224 - A touch of French music
+ 869 spotify:user:cabal76:playlist:5BMfleQnhNcPhKheTh81mH Blow Up 100 Memorable Italian Songs (1941-2005)
+ 870 spotify:user:cabal76:playlist:4YqrInNW0IPDC5ogjwmWr3 The Italian Blob - Top 69 Italian Alternative Songs
+ 871 spotify:user:cabal76:playlist:0dCvOCEmJRYLWaAuLFjwCk Rockit 15 anni (di rock italiano 1997-2012)
+ 872 spotify:user:cabal76:playlist:3LPQrP4mbbEQfHpexHZAZw Banzai!!! (japanese music against quakes, tsunamis and the nuclear drama)
+ 873 spotify:user:cabal76:playlist:6hWzNWtHP9xpAhKuHYn6Xs 100 Best Scottish Albums (The Scotsman, full albums)
+ 874 spotify:user:cabal76:playlist:62dWnDwOV9SxXvDa50rz37 50 Shades of United States
+ 875 spotify:user:cabal76:playlist:1hlvgZiJPGtDT4tONZ5nfX Paste's The 50 Best British Artists Of All Time
+ 876 spotify:user:cabal76:playlist:56OUmvc9Jp1O9htR7jePpj Köthener Straße 38 - The Legend of Hansa TonStudio
+ 877 spotify:user:eternal-life333:playlist:7oXQsqmRCalui5FxIN5vD3 Nostalgia
+ 878 spotify:user:cabal76:playlist:2fyHqAoZjXP1M6dlz1SRgp Happy Birthday, Marjut! 90 songs from the 90s
