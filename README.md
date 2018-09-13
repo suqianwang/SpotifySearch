@@ -1,5 +1,5 @@
 # SpotifySearch
-## This is an application that can performed search and recommendation based on a search engine utilizing big data crawled from Spotify.
+### This is an application that can performed search and recommendation based on a search engine utilizing big data crawled from Spotify.
 
 1. Crawl data from Spotify
 
